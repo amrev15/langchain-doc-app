@@ -6,6 +6,7 @@ from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
 from langchain.chains import RetrievalQA
 import pandas as pd
+import requests
 
 def generate_response(uploaded_file, openai_api_key, query_text):
     # Load document if file is uploaded
@@ -24,9 +25,9 @@ def generate_response(uploaded_file, openai_api_key, query_text):
         qa = RetrievalQA.from_chain_type(llm=OpenAI(openai_api_key=openai_api_key), chain_type='stuff', retriever=retriever)
         return qa.run(query_text)
 
-def set_background_image(image_path):
-    with open(image_path, "rb") as f:
-        img_data = f.read()
+def set_background_image(image_url):
+    response = requests.get(image_url)
+    img_data = response.content
     img_base64 = base64.b64encode(img_data).decode()
     page_bg_img = '''
     <style>
@@ -38,8 +39,9 @@ def set_background_image(image_path):
     ''' % img_base64
     st.markdown(page_bg_img, unsafe_allow_html=True)
 
-# Set background image
-set_background_image('sustainability.png')
+# Set background image from GitHub repository
+image_url = 'https://raw.githubusercontent.com/amrev15/langchain-doc-app/main/environment-clipart-eco-friendly-9.png'
+set_background_image(image_url)
 
 # Page title
 st.set_page_config(page_title='🦜🔗 Ask the Doc App')
