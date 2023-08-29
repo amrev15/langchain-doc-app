@@ -39,12 +39,14 @@ def set_background_image(image_url):
     ''' % img_base64
     st.markdown(page_bg_img, unsafe_allow_html=True)
 
+## Set Page config ##
+st.set_page_config(page_title='🦜🔗 Ask the Doc App')
+
 # Set background image from GitHub repository
 image_url = 'https://raw.githubusercontent.com/amrev15/langchain-doc-app/main/environment-clipart-eco-friendly-9.png'
 set_background_image(image_url)
 
 # Page title
-st.set_page_config(page_title='🦜🔗 Ask the Doc App')
 st.title('🦜🔗 Ask the Doc App')
 
 # Check if OpenAI API key is present in secrets management
