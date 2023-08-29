@@ -72,9 +72,3 @@ with st.form('myform', clear_on_submit=True):
 
 if len(result):
     st.info(response)
-
-# Bot analytics bar chart
-topics = ['Topic 1', 'Topic 2', 'Topic 3']
-values = [3, 2, 1]
-df = pd.DataFrame({'Topic': topics, 'Count': values})
-st.bar_chart(df)
