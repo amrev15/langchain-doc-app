@@ -39,14 +39,13 @@ def set_background_image(image_url):
     ''' % img_base64
     st.markdown(page_bg_img, unsafe_allow_html=True)
 
-## Set Page config ##
+# Page title
 st.set_page_config(page_title='🦜🔗 Ask the Doc App')
 
 # Set background image from GitHub repository
-image_url = 'https://raw.githubusercontent.com/amrev15/langchain-doc-app/main/environment-clipart-eco-friendly-9.png'
+image_url = 'https://raw.githubusercontent.com/your-username/your-repository/main/sustainability.png'
 set_background_image(image_url)
 
-# Page title
 st.title('🦜🔗 Ask the Doc App')
 
 # Check if OpenAI API key is present in secrets management
@@ -72,3 +71,13 @@ with st.form('myform', clear_on_submit=True):
 
 if len(result):
     st.info(response)
+
+# Bot analytics bar chart
+topics = ['Topic 1', 'Topic 2', 'Topic 3']
+values = [3, 2, 1]
+df = pd.DataFrame({'Topic': topics, 'Count': values})
+st.bar_chart(df)
+
+if query_text:
+    response = generate_response(uploaded_file, openai_api_key, query_text)
+    st.write(response)
