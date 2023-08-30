@@ -2,4 +2,5 @@ streamlit
 langchain
 pandas
 openai
+chromadb
 requests==2.26.0
