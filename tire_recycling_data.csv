@@ -1,0 +1,1001 @@
+Tire Brand,Tire Size,Condition,Location,Latitude,Longitude,Pincode,Recycling Date,Tire Type,Recycling Method,Recycled Product,Recycling Facility
+Pirelli,205/55R16,Scrap,Camp,56.9859665,-30.997455,51963,2023-02-20,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,235/45R17,Scrap,Hadapsar,-52.3095815,21.398243,32981,2023-05-18,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Michelin,225/45R17,Scrap,Bavdhan,49.1969785,-83.376329,17304,2023-08-17,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Continental,215/60R16,Scrap,Camp,43.6357015,175.955909,14272,2023-03-09,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Michelin,225/45R17,Used,Kalyani Nagar,14.153327,-129.664401,31266,2023-05-11,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,205/55R16,Scrap,Kharadi,85.894043,23.851660,19889,2023-08-03,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Pirelli,215/60R16,Used,Bavdhan,84.6799965,132.485428,27737,2023-05-17,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,225/45R17,Used,Hadapsar,-78.651515,132.704646,59582,2022-11-17,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,215/60R16,Used,Vishrantwadi,40.2868085,125.473702,22331,2022-10-10,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Pirelli,205/55R16,Scrap,Vishrantwadi,-5.590672,-175.740846,33142,2023-01-02,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,205/55R16,Scrap,Hinjewadi,-60.8789185,-87.403939,45161,2023-01-23,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Michelin,215/60R16,Used,Aundh,-71.195377,-53.323138,73433,2022-10-01,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,225/45R17,Scrap,Kothrud,-9.199422,-126.673533,00780,2022-11-06,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Goodyear,215/60R16,Scrap,Aundh,53.949692,-16.940573,04504,2022-10-22,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Pirelli,215/60R16,Scrap,Aundh,-71.1127845,34.624837,25268,2023-06-11,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Goodyear,215/60R16,Used,Camp,-35.0032805,-116.849757,17345,2023-01-05,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,225/50R17,Scrap,Aundh,16.4037625,141.108988,83761,2023-01-29,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,225/50R17,Scrap,Vishrantwadi,77.7131305,164.213032,30106,2023-04-29,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Continental,205/55R16,Used,Koregaon Park,-86.377012,-78.616764,36631,2023-08-29,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,225/50R17,Used,Shivane,28.8448675,30.783436,31172,2022-12-30,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,215/60R16,Used,Hinjewadi,-51.741289,-72.561995,67380,2023-07-07,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Michelin,225/45R17,Scrap,Koregaon Park,-61.091489,73.598830,13736,2023-03-24,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Bridgestone,225/45R17,Used,Hinjewadi,-63.104637,-1.204225,69986,2023-05-16,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Continental,205/55R16,Used,Kalyani Nagar,75.847078,22.950947,59416,2023-05-05,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Michelin,215/60R16,Used,Kharadi,-80.6875495,-154.532062,67951,2023-05-26,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,225/50R17,Scrap,Kharadi,-41.044711,-8.056306,48139,2022-11-23,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,225/50R17,Used,Aundh,72.8145455,-39.988335,47587,2022-12-17,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Goodyear,225/50R17,Scrap,Kalyani Nagar,51.0170125,155.274279,71598,2023-07-09,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Goodyear,225/50R17,Used,Vishrantwadi,53.740279,-162.063990,88228,2022-11-27,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,215/60R16,Scrap,Hinjewadi,-1.539598,-8.999076,36610,2022-12-28,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,235/45R17,Scrap,Shivane,13.3304255,-85.246206,65536,2022-12-24,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,205/55R16,Used,Hadapsar,9.0534975,-74.076583,03285,2023-08-24,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Goodyear,205/55R16,Used,Hinjewadi,38.4019125,-134.560774,13408,2023-05-27,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Michelin,205/55R16,Used,Magarpatta City,-25.125392,8.488451,17156,2023-02-26,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,225/50R17,Used,Hadapsar,56.9202615,57.877408,82532,2023-03-05,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,215/60R16,Used,Hadapsar,-30.070671,104.163174,22971,2023-06-05,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Michelin,205/55R16,Used,Magarpatta City,9.941635,-54.029682,33313,2023-03-30,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,225/45R17,Used,Vishrantwadi,-89.4705805,-112.779396,87900,2023-07-08,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Michelin,215/60R16,Scrap,Hadapsar,12.4998765,153.991808,62682,2022-12-18,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,235/45R17,Used,Shivajinagar,-37.0462385,-101.578719,43749,2023-02-09,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,225/45R17,Scrap,Shivajinagar,61.148423,143.994770,63706,2022-09-28,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Bridgestone,215/60R16,Used,Deccan,-11.5777205,106.839356,29661,2022-10-15,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Pirelli,215/60R16,Scrap,Koregaon Park,30.3590955,35.942561,59718,2023-01-09,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Bridgestone,235/45R17,Used,Hinjewadi,-1.705120,108.847726,90212,2023-09-21,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,215/60R16,Scrap,Magarpatta City,77.585482,37.117616,60181,2023-03-25,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Michelin,225/50R17,Scrap,Camp,-86.7241235,104.335213,67363,2023-05-20,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Pirelli,225/50R17,Scrap,Hadapsar,-81.729930,-161.521897,68764,2022-10-21,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,225/45R17,Used,Bavdhan,-58.8558125,84.615219,38141,2022-12-19,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Michelin,225/50R17,Used,Kothrud,0.0130425,-141.173699,08761,2022-10-02,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,225/45R17,Used,Shivajinagar,37.7780945,-177.880935,40778,2023-03-16,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,205/55R16,Used,Vishrantwadi,2.1964795,142.672172,91206,2023-09-21,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,205/55R16,Used,Aundh,21.1053585,-159.645752,25508,2022-10-13,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Michelin,215/60R16,Scrap,Koregaon Park,-82.9152465,-160.412467,93139,2023-08-11,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Continental,205/55R16,Scrap,Koregaon Park,-56.668830,61.113151,94132,2023-01-19,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,225/50R17,Used,Magarpatta City,63.7978855,-129.387377,88688,2023-08-05,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Goodyear,215/60R16,Scrap,Kalyani Nagar,39.362436,-68.110762,93656,2022-12-21,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,205/55R16,Used,Magarpatta City,41.410571,11.042665,23255,2023-02-07,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Bridgestone,235/45R17,Scrap,Shivane,-49.0297395,-67.497108,81455,2023-07-04,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,225/45R17,Scrap,Shivajinagar,33.1963105,-139.475614,91445,2023-08-15,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,235/45R17,Used,Kothrud,-71.510783,-48.723800,08600,2023-02-13,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Continental,225/45R17,Used,Kothrud,43.8894475,66.460959,24541,2023-01-23,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,205/55R16,Used,Magarpatta City,-1.633366,-82.808342,83429,2023-04-14,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,205/55R16,Used,Shivajinagar,-66.1282715,-24.622116,28936,2022-11-07,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,215/60R16,Scrap,Vishrantwadi,-11.1521175,-174.816252,72905,2023-05-10,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Pirelli,225/45R17,Used,Hinjewadi,3.675003,-46.352144,28118,2023-05-24,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Continental,215/60R16,Used,Hadapsar,81.294495,99.164694,12152,2023-05-26,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Continental,225/50R17,Used,Kharadi,3.331333,-68.994759,50321,2023-08-10,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Pirelli,205/55R16,Used,Hinjewadi,-43.1892185,179.354359,48911,2022-12-15,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,205/55R16,Scrap,Vishrantwadi,-10.9400425,170.503457,79213,2022-10-20,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,205/55R16,Scrap,Hadapsar,54.1982975,-141.822608,25443,2023-07-04,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Continental,225/45R17,Scrap,Shivane,-15.200103,-125.487142,72204,2022-10-24,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Continental,215/60R16,Scrap,Koregaon Park,1.163970,29.060529,55720,2022-10-23,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Pirelli,235/45R17,Scrap,Kalyani Nagar,15.1030955,-176.614596,43983,2023-02-09,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Pirelli,235/45R17,Used,Kalyani Nagar,7.540693,-144.824595,12328,2023-06-06,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,205/55R16,Scrap,Hinjewadi,-76.3547575,1.450518,46307,2023-09-23,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,215/60R16,Scrap,Camp,-37.541963,-153.361654,26814,2022-12-03,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Pirelli,225/50R17,Scrap,Magarpatta City,73.5538505,72.623188,88398,2023-05-12,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,215/60R16,Scrap,Shivane,-51.386790,-148.878174,89268,2023-01-27,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,205/55R16,Scrap,Shivane,-16.4262685,21.781882,19655,2023-04-06,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Continental,235/45R17,Used,Koregaon Park,-65.0488755,-153.749039,23850,2022-12-30,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Pirelli,235/45R17,Scrap,Aundh,-12.0600295,-150.812935,83801,2022-10-12,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Continental,205/55R16,Scrap,Shivajinagar,-46.8505365,10.688239,99120,2023-08-28,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,235/45R17,Used,Deccan,23.9768955,-60.763119,09952,2023-05-19,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,225/45R17,Scrap,Aundh,-43.012882,-4.694190,02931,2023-05-24,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,215/60R16,Used,Kothrud,-6.805936,11.992458,97467,2022-12-23,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,225/50R17,Scrap,Kharadi,12.5807345,-54.605453,81126,2023-08-25,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,225/50R17,Scrap,Kothrud,-19.2535305,93.208943,99433,2022-11-16,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,225/50R17,Used,Kalyani Nagar,-40.0898365,50.411248,30123,2023-02-02,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,235/45R17,Scrap,Vishrantwadi,-47.3592175,-52.344544,11231,2023-03-23,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,225/50R17,Scrap,Deccan,-31.9577885,106.886999,83975,2023-07-30,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,225/45R17,Used,Hadapsar,-21.7301335,28.097240,55604,2023-02-21,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,205/55R16,Used,Koregaon Park,-29.5061705,15.406317,37825,2023-03-09,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Bridgestone,235/45R17,Used,Koregaon Park,-26.1205555,151.723656,05073,2023-04-09,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,205/55R16,Scrap,Koregaon Park,-59.898494,-146.474440,17045,2023-07-22,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,225/45R17,Used,Shivajinagar,-64.112257,80.438595,58350,2023-03-24,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Continental,235/45R17,Used,Deccan,35.2497385,27.810171,79676,2023-04-17,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Michelin,215/60R16,Used,Koregaon Park,-69.014838,-7.561640,14561,2023-03-05,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Michelin,215/60R16,Used,Koregaon Park,-24.2166755,49.348442,59906,2022-10-03,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Pirelli,215/60R16,Used,Aundh,53.684355,-108.500970,71933,2023-08-09,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Continental,205/55R16,Used,Shivane,-35.1115705,-172.271466,93008,2022-11-17,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,215/60R16,Scrap,Kalyani Nagar,74.8269735,-111.893908,56930,2023-06-09,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Bridgestone,225/45R17,Used,Kharadi,75.900167,-124.696686,24779,2022-12-31,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Goodyear,205/55R16,Scrap,Camp,-64.171154,-0.585709,49492,2022-11-21,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Pirelli,225/50R17,Used,Koregaon Park,-9.413656,5.725800,22709,2022-12-14,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Pirelli,205/55R16,Used,Magarpatta City,62.3763535,87.837267,02049,2023-03-23,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,225/50R17,Scrap,Camp,37.685183,107.484746,16477,2023-04-07,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Goodyear,225/45R17,Used,Kothrud,-52.083762,-169.087944,00585,2023-06-20,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Michelin,205/55R16,Used,Hadapsar,-10.5708105,42.075092,31510,2023-04-12,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,205/55R16,Used,Kharadi,-66.5933095,131.020175,54979,2023-09-10,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,225/45R17,Scrap,Magarpatta City,54.473799,82.185062,78783,2022-10-13,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Goodyear,235/45R17,Used,Kharadi,55.3695975,-0.349392,65993,2022-11-16,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Michelin,235/45R17,Used,Kothrud,74.9860415,98.500903,06783,2023-07-02,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,235/45R17,Scrap,Aundh,-75.032565,-66.208133,18617,2023-06-06,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Continental,225/45R17,Scrap,Shivane,-32.4906125,145.532190,17181,2023-03-24,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Michelin,225/50R17,Scrap,Kothrud,-47.948538,6.193546,34876,2023-01-14,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Continental,205/55R16,Used,Bavdhan,39.6142625,6.390055,02098,2022-12-04,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,235/45R17,Scrap,Kharadi,-71.8795435,55.292049,45637,2023-05-03,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Pirelli,225/45R17,Used,Koregaon Park,-58.3547965,-141.689158,43548,2023-06-20,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,225/45R17,Scrap,Kharadi,-31.5459195,-55.291252,54881,2023-05-07,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,235/45R17,Scrap,Vishrantwadi,74.171829,-41.318489,70397,2023-08-01,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,225/45R17,Used,Kharadi,-39.8677845,-9.283870,92121,2022-12-03,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Goodyear,225/50R17,Used,Shivane,86.4110105,172.553450,38126,2023-07-04,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,225/50R17,Scrap,Deccan,-26.3231255,43.465414,73278,2022-09-25,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,235/45R17,Scrap,Magarpatta City,-28.5578835,-138.701086,07862,2022-12-03,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Pirelli,225/50R17,Scrap,Bavdhan,-76.322439,176.004698,08955,2023-05-16,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Michelin,235/45R17,Scrap,Hadapsar,-15.543019,119.019126,58521,2023-09-02,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Pirelli,225/45R17,Scrap,Vishrantwadi,55.4017575,-7.808477,67498,2023-05-10,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,215/60R16,Scrap,Bavdhan,15.733238,126.754209,40312,2022-12-08,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,225/50R17,Scrap,Aundh,-72.1928185,93.123591,86108,2023-04-10,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Michelin,225/45R17,Used,Magarpatta City,-44.9101595,-78.151892,81592,2023-06-02,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Goodyear,225/45R17,Used,Bavdhan,-17.0852525,-49.322279,74399,2022-12-18,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Michelin,225/45R17,Scrap,Koregaon Park,-30.359052,1.308801,26751,2023-01-05,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Goodyear,225/45R17,Used,Shivajinagar,59.0214795,30.402500,02525,2022-10-04,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,215/60R16,Scrap,Hadapsar,88.059448,-39.307551,04017,2023-06-13,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Michelin,225/45R17,Scrap,Hinjewadi,-85.6044095,-18.831052,70285,2023-08-23,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,235/45R17,Used,Deccan,-19.6423165,82.337000,18050,2023-09-04,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Continental,205/55R16,Scrap,Hinjewadi,-72.8258485,106.362320,21824,2023-01-19,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Michelin,225/50R17,Scrap,Vishrantwadi,0.304338,54.871106,77907,2022-11-25,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,215/60R16,Scrap,Hadapsar,-87.3342725,-71.686968,07442,2022-12-02,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,235/45R17,Used,Camp,16.1102605,1.261947,08821,2023-01-17,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,215/60R16,Used,Vishrantwadi,70.855462,160.230556,02824,2023-02-08,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,215/60R16,Used,Aundh,75.0155905,39.045623,24809,2023-06-05,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Continental,225/50R17,Scrap,Vishrantwadi,53.4229915,-124.230793,04802,2023-03-16,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,235/45R17,Used,Kalyani Nagar,-65.121038,163.456299,85352,2023-04-10,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Michelin,225/45R17,Scrap,Aundh,-46.1208895,-16.700494,48788,2023-05-16,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,225/50R17,Scrap,Bavdhan,-34.333461,11.292117,87517,2023-07-13,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,225/50R17,Used,Koregaon Park,34.015812,-60.124121,21833,2023-02-18,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Pirelli,225/45R17,Used,Vishrantwadi,82.2804645,-119.716543,03111,2023-02-03,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,235/45R17,Scrap,Shivajinagar,34.7068715,9.571528,49268,2022-11-13,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Michelin,215/60R16,Scrap,Kothrud,-68.542861,-132.281312,87764,2023-09-07,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Continental,225/50R17,Scrap,Kharadi,-79.6994105,14.133398,59707,2023-05-05,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Bridgestone,225/45R17,Used,Koregaon Park,-32.470827,-127.011478,78595,2022-10-14,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,205/55R16,Used,Koregaon Park,36.544644,-16.784604,66388,2023-03-28,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Goodyear,235/45R17,Scrap,Kharadi,-63.542597,2.015245,43442,2022-12-19,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Michelin,235/45R17,Used,Camp,-1.1946725,66.502049,04747,2023-03-27,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,205/55R16,Scrap,Aundh,40.2174865,-90.000944,61247,2022-10-06,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Pirelli,235/45R17,Scrap,Camp,-24.362303,-135.622550,25957,2022-10-16,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Continental,225/45R17,Used,Bavdhan,55.4562415,-44.733672,06312,2022-11-28,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Continental,225/50R17,Used,Shivajinagar,6.505686,159.601961,72386,2023-08-20,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Continental,215/60R16,Scrap,Shivajinagar,-58.252407,100.171378,97208,2023-05-24,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,225/45R17,Scrap,Hadapsar,0.2597165,155.142415,72806,2023-04-30,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Bridgestone,225/45R17,Scrap,Magarpatta City,19.243038,-52.383475,68193,2023-09-14,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Goodyear,225/45R17,Used,Hadapsar,54.0228985,-123.729803,49612,2023-06-13,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Bridgestone,215/60R16,Used,Kothrud,67.511016,48.572995,96294,2023-01-11,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Pirelli,225/50R17,Scrap,Shivajinagar,-3.048193,130.412571,44829,2022-10-19,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Bridgestone,225/45R17,Scrap,Aundh,-66.2252005,140.372930,30515,2023-08-27,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Bridgestone,235/45R17,Scrap,Shivane,15.4504305,58.273063,50962,2023-05-12,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,225/50R17,Scrap,Hinjewadi,-79.7562225,110.929403,21730,2023-05-23,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Bridgestone,225/45R17,Used,Hinjewadi,-3.223137,131.498766,88338,2022-12-02,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Michelin,205/55R16,Scrap,Hadapsar,-43.5350175,-79.896449,05406,2023-06-22,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Pirelli,215/60R16,Used,Vishrantwadi,-63.7244655,62.838712,44634,2022-10-16,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,205/55R16,Scrap,Shivane,76.849901,-95.176934,68531,2023-09-14,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Bridgestone,235/45R17,Scrap,Shivajinagar,-58.363251,106.346287,34290,2023-04-05,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,235/45R17,Used,Hinjewadi,-39.299496,-148.547028,71308,2023-09-08,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,235/45R17,Scrap,Koregaon Park,21.279657,22.767158,70745,2023-07-20,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Goodyear,235/45R17,Scrap,Aundh,55.8279395,103.458881,72027,2022-10-15,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Continental,205/55R16,Scrap,Kothrud,55.398579,132.130259,24114,2022-12-08,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Continental,225/50R17,Scrap,Deccan,52.6646765,105.469983,55309,2022-10-20,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Michelin,235/45R17,Used,Shivane,47.431726,22.484825,08723,2022-11-15,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Michelin,205/55R16,Used,Vishrantwadi,-41.9321615,-138.632891,76594,2023-01-13,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Michelin,225/45R17,Scrap,Kothrud,-56.939138,65.588548,52612,2023-03-29,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Continental,205/55R16,Scrap,Deccan,-3.5687495,-45.937151,61163,2023-04-16,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Continental,225/45R17,Used,Bavdhan,13.9426665,173.198961,60361,2023-01-10,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Goodyear,225/45R17,Scrap,Kharadi,29.942148,17.131750,15616,2023-03-16,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,225/50R17,Used,Shivane,16.8430305,5.126639,88033,2023-01-21,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Continental,235/45R17,Used,Hinjewadi,35.7205055,-91.442629,87620,2023-01-13,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,225/50R17,Scrap,Kalyani Nagar,45.608295,150.443656,64199,2023-03-29,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,215/60R16,Scrap,Kalyani Nagar,77.757118,164.278277,95519,2022-12-14,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Continental,205/55R16,Scrap,Shivane,-64.143354,109.660124,72976,2023-09-20,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,225/50R17,Scrap,Camp,-89.6806095,-34.345893,87236,2023-05-05,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,225/45R17,Used,Bavdhan,-41.017578,-154.454307,45282,2023-04-08,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Michelin,225/50R17,Scrap,Kharadi,62.4827735,53.191751,11276,2023-05-13,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,225/45R17,Scrap,Camp,-10.571080,138.556260,89980,2023-04-13,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,225/45R17,Scrap,Aundh,65.617434,158.968820,56310,2023-06-06,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,215/60R16,Scrap,Aundh,35.7345835,44.985641,22036,2023-07-11,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,235/45R17,Scrap,Deccan,72.2461265,167.436940,63319,2023-06-21,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,205/55R16,Scrap,Camp,-36.145977,-138.100671,60857,2022-12-29,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,225/45R17,Used,Shivane,65.5675945,18.215791,17766,2023-07-24,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Continental,235/45R17,Scrap,Kalyani Nagar,-56.5493565,-68.979158,08775,2022-12-25,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Pirelli,225/45R17,Used,Shivane,69.9670035,-26.595068,73513,2023-01-18,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,225/50R17,Used,Hadapsar,-13.130011,147.168882,71747,2023-04-05,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Michelin,225/50R17,Scrap,Hadapsar,-63.163794,-45.790139,82290,2022-11-20,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Continental,205/55R16,Scrap,Vishrantwadi,-12.139363,-124.384049,57082,2022-11-11,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Pirelli,225/50R17,Used,Camp,2.3824965,-63.423659,52718,2023-04-13,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,205/55R16,Scrap,Kharadi,-71.9727125,-96.296709,46811,2023-09-23,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,225/45R17,Scrap,Kharadi,-38.5731515,-118.542433,60084,2023-04-23,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Pirelli,225/45R17,Used,Hinjewadi,-75.6410525,-1.409849,08841,2022-11-20,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Continental,215/60R16,Scrap,Shivane,-13.416627,14.647853,85360,2023-01-07,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,215/60R16,Scrap,Hinjewadi,29.6990495,-101.802342,24609,2022-12-11,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,225/50R17,Scrap,Hadapsar,86.5975925,-39.025246,82034,2023-01-30,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Continental,215/60R16,Scrap,Magarpatta City,74.344930,8.061339,06146,2022-12-24,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Pirelli,225/50R17,Used,Bavdhan,32.8674495,-12.648736,29527,2022-10-03,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,225/45R17,Scrap,Bavdhan,-38.3591245,4.171193,94052,2023-03-08,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,205/55R16,Used,Magarpatta City,-42.8297205,156.415431,81798,2023-01-12,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Pirelli,205/55R16,Used,Kalyani Nagar,-3.580722,-52.097883,08318,2023-07-25,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Continental,235/45R17,Scrap,Shivane,-13.4508175,6.688185,72057,2022-12-25,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,235/45R17,Scrap,Kothrud,-29.624154,72.881813,18792,2022-12-23,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Pirelli,235/45R17,Scrap,Bavdhan,15.167999,-42.417952,92372,2023-08-01,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Michelin,235/45R17,Used,Vishrantwadi,-23.321915,-173.997558,98674,2022-11-27,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Goodyear,225/50R17,Scrap,Magarpatta City,-11.103841,-154.755541,34515,2023-01-29,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,225/50R17,Scrap,Shivane,-44.103831,106.385559,06787,2023-02-03,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,235/45R17,Scrap,Shivajinagar,25.329200,-152.323287,09421,2023-08-19,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Pirelli,235/45R17,Scrap,Shivane,72.369269,-116.791655,33951,2023-09-06,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Continental,225/45R17,Scrap,Kothrud,31.092367,-165.550130,26174,2022-12-17,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,235/45R17,Used,Vishrantwadi,28.491090,-32.911462,78695,2023-03-27,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,205/55R16,Scrap,Camp,19.174719,-176.159268,26452,2023-05-28,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Goodyear,225/45R17,Used,Kalyani Nagar,68.440966,118.651281,74470,2023-05-16,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Bridgestone,235/45R17,Used,Kalyani Nagar,53.4698725,-169.670491,83465,2022-09-27,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Bridgestone,205/55R16,Scrap,Vishrantwadi,-0.293833,-51.591842,44764,2023-07-16,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,225/50R17,Used,Aundh,-41.964222,109.615218,31469,2023-09-07,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,215/60R16,Used,Hadapsar,13.6161565,43.351599,01964,2023-03-12,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Michelin,235/45R17,Scrap,Camp,39.0457765,-134.690423,89984,2023-02-18,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Pirelli,225/50R17,Used,Hadapsar,-53.451568,-176.263650,05652,2023-08-30,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Goodyear,215/60R16,Used,Camp,18.892276,-82.923059,42715,2023-07-25,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,225/50R17,Scrap,Aundh,-19.4434335,-178.406427,79565,2023-09-14,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,235/45R17,Used,Shivajinagar,-82.2199795,-73.937841,88184,2023-09-06,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Continental,225/45R17,Used,Kharadi,-23.2554915,-100.437574,45790,2023-04-03,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Continental,205/55R16,Used,Hinjewadi,18.421287,-159.362706,83113,2022-10-17,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Michelin,225/50R17,Scrap,Vishrantwadi,61.1899975,-0.242816,32426,2023-03-15,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,215/60R16,Scrap,Hadapsar,-53.8236835,-175.102966,55569,2022-12-26,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Pirelli,215/60R16,Used,Koregaon Park,-25.0964885,52.491224,61193,2023-08-19,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Goodyear,225/45R17,Scrap,Camp,-75.2735865,22.344064,63192,2023-08-20,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,235/45R17,Scrap,Hadapsar,30.588730,79.517521,22931,2023-08-03,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Continental,215/60R16,Used,Deccan,28.2742245,16.003129,33895,2023-02-23,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Pirelli,215/60R16,Scrap,Kalyani Nagar,15.261940,57.520980,30840,2023-03-19,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Continental,225/50R17,Scrap,Hadapsar,64.632238,63.813087,30092,2022-10-27,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Michelin,225/50R17,Scrap,Kharadi,37.761754,35.903308,29328,2023-02-23,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,225/45R17,Scrap,Shivajinagar,32.5072275,-87.462237,08605,2023-06-24,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Michelin,215/60R16,Scrap,Kothrud,72.945658,-45.113680,41361,2023-08-12,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Pirelli,205/55R16,Used,Hinjewadi,84.8791555,-170.999684,74050,2022-12-19,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,225/45R17,Scrap,Bavdhan,-60.1510335,26.890829,59346,2023-04-09,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,215/60R16,Used,Hadapsar,35.073315,134.815245,81500,2023-03-20,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Continental,225/50R17,Used,Kalyani Nagar,-47.8315195,-49.020857,04690,2023-04-10,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Pirelli,215/60R16,Used,Kothrud,5.2326275,59.370195,36108,2023-07-25,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,235/45R17,Used,Camp,24.368525,129.404585,80222,2022-11-02,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Continental,225/50R17,Scrap,Koregaon Park,41.0831345,49.282620,73368,2023-06-22,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Pirelli,235/45R17,Used,Shivane,-87.8754785,2.176947,62240,2023-06-24,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Continental,225/50R17,Scrap,Hadapsar,-17.784108,-121.224299,24145,2023-05-30,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Michelin,215/60R16,Used,Shivane,-70.3927115,141.000967,33079,2022-11-01,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Continental,205/55R16,Used,Camp,-11.685927,94.262849,19602,2022-10-26,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Goodyear,235/45R17,Used,Shivajinagar,36.2595505,-94.335874,12178,2023-09-04,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Goodyear,225/45R17,Scrap,Bavdhan,2.293986,-10.940430,24866,2023-09-01,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,205/55R16,Scrap,Shivajinagar,-36.686518,12.400811,96220,2023-03-20,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Pirelli,225/50R17,Scrap,Aundh,-23.8542355,10.660075,45163,2023-09-13,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,215/60R16,Used,Bavdhan,-12.9332925,-139.522443,11697,2023-04-05,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,215/60R16,Used,Bavdhan,3.375664,-158.435652,12294,2023-06-08,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,235/45R17,Used,Magarpatta City,-39.135154,-139.973437,78042,2023-05-20,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Continental,235/45R17,Scrap,Deccan,-28.9234635,-104.712262,26926,2022-12-14,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,215/60R16,Scrap,Kalyani Nagar,-27.213383,-38.888086,93539,2022-12-27,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,215/60R16,Scrap,Kharadi,-85.638386,56.909726,94711,2023-03-10,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,215/60R16,Scrap,Camp,89.074480,-141.155340,62374,2022-09-29,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,225/45R17,Scrap,Shivane,-42.678144,-95.554567,26594,2023-06-25,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,225/50R17,Scrap,Kothrud,-9.8171925,-126.700786,64993,2023-06-02,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Pirelli,225/45R17,Scrap,Aundh,55.036618,-97.669383,00795,2023-08-02,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Goodyear,235/45R17,Used,Aundh,-74.471976,-168.821351,49515,2023-01-05,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,225/45R17,Used,Vishrantwadi,-21.753080,-145.313658,23021,2023-07-01,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,225/50R17,Used,Kothrud,-89.428510,-129.939954,62956,2023-05-10,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,235/45R17,Used,Shivane,-50.264238,-86.363779,52747,2022-11-19,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Continental,205/55R16,Used,Hadapsar,-51.9297755,-37.345097,66603,2022-10-26,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,235/45R17,Scrap,Aundh,35.8062795,175.243316,84967,2023-05-16,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Continental,205/55R16,Scrap,Bavdhan,61.724150,3.407528,91037,2023-01-23,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,235/45R17,Scrap,Kothrud,39.5406355,-105.429320,49559,2023-04-19,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,205/55R16,Scrap,Vishrantwadi,-3.057079,101.888526,67452,2023-03-02,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,235/45R17,Scrap,Bavdhan,-59.438240,33.000953,90741,2023-01-03,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,235/45R17,Used,Kalyani Nagar,59.656891,178.816131,61601,2023-03-14,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,205/55R16,Scrap,Shivajinagar,-14.9658705,-19.663336,79352,2023-03-17,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Goodyear,215/60R16,Scrap,Koregaon Park,-30.5194015,149.676772,44222,2023-08-10,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Continental,225/45R17,Used,Kharadi,-63.735840,-99.324941,20819,2023-07-31,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,225/45R17,Used,Kharadi,-49.693354,148.727158,01654,2023-05-31,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,235/45R17,Used,Shivajinagar,81.321784,-88.693225,69562,2023-08-06,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Michelin,215/60R16,Used,Shivane,-79.621861,-25.165576,46972,2023-09-06,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,235/45R17,Used,Hadapsar,66.037346,137.471915,47075,2023-01-12,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,225/50R17,Used,Kharadi,3.9560615,-45.225175,88632,2022-12-06,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,225/45R17,Scrap,Aundh,-51.214756,-17.044162,60275,2023-01-22,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,215/60R16,Used,Hinjewadi,46.699366,107.728860,07433,2023-09-19,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Continental,235/45R17,Scrap,Shivajinagar,-38.617810,76.269218,23549,2023-08-06,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,225/50R17,Used,Bavdhan,-77.0329515,-154.284825,47647,2023-03-27,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,205/55R16,Scrap,Bavdhan,74.6354085,163.266511,45279,2023-03-02,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Pirelli,215/60R16,Scrap,Vishrantwadi,11.374983,16.989324,50049,2022-11-29,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,205/55R16,Scrap,Shivane,34.559149,-24.185324,30220,2022-10-15,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,205/55R16,Used,Hinjewadi,-22.675335,34.052616,76562,2023-09-18,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Michelin,205/55R16,Scrap,Kothrud,-2.300237,-153.432603,21794,2023-07-30,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,225/50R17,Used,Deccan,45.095442,-67.989418,06715,2023-05-15,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Michelin,225/50R17,Scrap,Hinjewadi,15.821398,124.188409,64567,2023-07-18,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Bridgestone,225/50R17,Used,Hadapsar,-73.793452,151.825450,16308,2023-06-01,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,225/50R17,Scrap,Kothrud,59.9154855,-166.777294,78186,2023-07-24,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Continental,225/50R17,Scrap,Hadapsar,41.064255,83.340632,14538,2023-07-23,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,225/50R17,Used,Shivane,-58.045757,-82.051762,69599,2023-06-26,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Goodyear,215/60R16,Scrap,Bavdhan,-84.7838535,-63.086887,18027,2023-08-01,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Continental,215/60R16,Used,Vishrantwadi,37.848538,39.560527,50920,2023-01-09,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Continental,205/55R16,Scrap,Kharadi,-19.104072,-130.545820,00759,2023-03-04,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Bridgestone,225/45R17,Scrap,Shivajinagar,-78.017066,-159.489145,34359,2023-09-05,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Goodyear,225/50R17,Scrap,Hinjewadi,-25.5596275,54.839164,76395,2023-03-06,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,225/50R17,Used,Camp,43.3470945,54.390253,74866,2023-04-25,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,215/60R16,Scrap,Vishrantwadi,64.3179175,-9.548116,23924,2022-10-23,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,225/50R17,Scrap,Bavdhan,66.643199,-80.859305,09400,2023-05-03,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,225/50R17,Used,Magarpatta City,-61.8241755,23.778476,47670,2022-09-25,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Pirelli,225/50R17,Used,Magarpatta City,76.0525565,-7.369058,84092,2022-11-28,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,205/55R16,Scrap,Magarpatta City,-53.3200045,-116.663445,32112,2023-07-29,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,225/50R17,Used,Shivajinagar,1.9568855,-152.651604,42856,2023-06-01,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,225/45R17,Scrap,Aundh,-39.271682,60.883620,04192,2023-09-13,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,215/60R16,Used,Shivane,-8.126340,-15.516849,19522,2023-08-31,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,235/45R17,Used,Shivane,-14.160607,-49.754739,12982,2023-01-10,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Continental,225/50R17,Scrap,Deccan,-2.6733315,125.472371,56299,2023-01-02,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Pirelli,235/45R17,Scrap,Deccan,-7.6799505,-23.910773,35783,2022-12-28,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Continental,225/45R17,Scrap,Vishrantwadi,47.008742,38.152140,06617,2023-08-10,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Goodyear,225/45R17,Scrap,Hinjewadi,-71.2650975,83.175839,56691,2023-01-30,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,225/50R17,Used,Vishrantwadi,-68.8971155,-23.039255,83900,2023-04-26,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Continental,205/55R16,Used,Deccan,43.6879105,135.605891,79879,2023-01-12,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Goodyear,225/45R17,Scrap,Kharadi,72.670193,102.109263,72584,2023-02-25,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Continental,225/45R17,Used,Shivajinagar,66.6644295,-129.690238,34368,2023-05-18,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Bridgestone,215/60R16,Scrap,Vishrantwadi,3.586636,-110.643335,54144,2022-10-02,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Pirelli,235/45R17,Scrap,Shivane,61.641115,-56.444542,12741,2023-06-06,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Bridgestone,235/45R17,Scrap,Vishrantwadi,-2.8181295,122.792078,21324,2022-10-08,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Continental,215/60R16,Scrap,Hadapsar,34.110430,-91.450384,87552,2023-01-26,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,225/45R17,Used,Shivane,-78.2593875,-13.288656,46227,2022-11-23,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Continental,225/50R17,Scrap,Shivane,-26.1980465,-152.435164,64127,2023-03-08,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Bridgestone,205/55R16,Used,Kothrud,-10.261860,141.977138,92450,2022-12-05,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Continental,235/45R17,Used,Camp,40.200417,129.197404,27691,2023-02-15,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Goodyear,215/60R16,Used,Shivane,81.524308,-47.698419,25611,2022-10-08,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,235/45R17,Used,Hadapsar,21.4117805,57.815364,33497,2023-04-19,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Michelin,205/55R16,Used,Shivane,-17.716350,-146.983651,02844,2022-12-10,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Continental,215/60R16,Scrap,Shivajinagar,16.346577,70.926518,74504,2023-03-31,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Bridgestone,225/50R17,Used,Kothrud,-71.080537,-83.332863,32166,2023-07-19,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,225/45R17,Used,Koregaon Park,42.439794,-118.161069,65726,2023-01-05,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Michelin,235/45R17,Scrap,Bavdhan,32.917589,-13.272707,02920,2022-10-16,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,225/45R17,Scrap,Bavdhan,-76.540841,-36.220893,42939,2023-08-30,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,205/55R16,Used,Hinjewadi,-43.6822695,19.031568,14250,2023-06-19,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Bridgestone,205/55R16,Scrap,Camp,3.644993,-146.819020,29399,2023-01-05,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Goodyear,215/60R16,Used,Hadapsar,28.238789,-170.296027,97485,2022-11-07,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Pirelli,225/50R17,Scrap,Camp,-33.6956975,-11.757292,53357,2023-06-16,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,235/45R17,Scrap,Shivane,-76.658116,61.113112,79342,2022-12-04,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,225/50R17,Scrap,Bavdhan,-79.9239305,-173.094216,42936,2022-12-16,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,235/45R17,Scrap,Shivane,-19.906827,25.203147,84588,2023-03-06,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Pirelli,225/50R17,Scrap,Magarpatta City,56.923653,-172.892884,09658,2023-08-03,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,225/50R17,Used,Kalyani Nagar,28.9890875,-144.282273,99749,2023-07-20,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,225/45R17,Used,Shivajinagar,23.7643885,-21.964841,99284,2022-10-02,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Continental,205/55R16,Used,Shivajinagar,41.5797055,169.992729,55867,2022-10-20,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Continental,235/45R17,Used,Kothrud,79.928477,-53.925636,36863,2022-11-19,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,225/50R17,Used,Kalyani Nagar,1.008751,174.496228,62585,2023-03-16,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Continental,215/60R16,Scrap,Hadapsar,-51.9739825,142.524948,81695,2023-03-20,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,225/45R17,Scrap,Magarpatta City,-78.487888,-108.716741,01480,2023-08-16,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Michelin,225/45R17,Scrap,Magarpatta City,-65.8703335,101.533939,70221,2023-01-31,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,205/55R16,Scrap,Shivane,-50.734938,-111.126927,73816,2023-08-15,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Pirelli,205/55R16,Used,Deccan,-60.8732465,-163.696373,10230,2023-03-02,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,225/45R17,Scrap,Aundh,-44.898638,-122.887755,42919,2023-08-15,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Pirelli,225/50R17,Scrap,Magarpatta City,-3.2066765,-33.592204,63883,2022-10-13,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Continental,225/45R17,Scrap,Shivane,54.2328275,120.026763,59076,2023-08-29,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Continental,235/45R17,Scrap,Camp,39.7660605,53.109883,34477,2023-03-03,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Bridgestone,235/45R17,Used,Shivajinagar,0.4911685,105.601209,86588,2022-10-12,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Michelin,225/45R17,Scrap,Vishrantwadi,20.989368,112.916403,81215,2023-09-19,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Michelin,225/45R17,Scrap,Magarpatta City,75.599226,73.029136,08315,2022-10-26,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,235/45R17,Scrap,Kothrud,-72.004156,162.961323,41108,2022-09-28,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,225/45R17,Used,Hadapsar,18.4007785,-29.642466,87593,2023-07-12,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Michelin,235/45R17,Scrap,Camp,-45.759461,134.148999,80280,2022-10-26,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Continental,235/45R17,Used,Aundh,-56.430153,-58.398116,95850,2022-10-11,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,205/55R16,Used,Magarpatta City,25.121326,159.866489,32048,2023-01-13,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,205/55R16,Used,Bavdhan,47.126948,-38.351750,42568,2022-10-08,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,205/55R16,Used,Kharadi,54.2150095,-125.535395,94024,2022-10-16,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Continental,225/50R17,Used,Aundh,83.9185755,-12.086724,53305,2023-02-11,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Continental,235/45R17,Scrap,Shivane,51.091127,173.487379,79679,2023-07-20,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,215/60R16,Used,Kothrud,6.0966595,65.416677,96269,2023-05-09,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,225/45R17,Used,Camp,39.470148,96.268965,96919,2023-02-11,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,205/55R16,Used,Vishrantwadi,-27.920878,-135.766206,95123,2022-12-24,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Bridgestone,205/55R16,Used,Hadapsar,-35.9553055,-35.985980,32874,2022-12-24,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,205/55R16,Used,Camp,-88.908105,56.661802,14604,2022-11-09,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Continental,235/45R17,Used,Bavdhan,-67.9478795,5.113125,45007,2022-10-11,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Michelin,205/55R16,Used,Vishrantwadi,-86.270950,-95.465524,67271,2023-02-24,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Goodyear,205/55R16,Used,Deccan,1.796202,-158.873567,10439,2023-04-18,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Pirelli,225/50R17,Scrap,Magarpatta City,84.225815,65.647191,29468,2023-01-19,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,225/45R17,Used,Hinjewadi,69.089907,115.736199,18379,2023-05-27,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,225/50R17,Used,Vishrantwadi,-57.749606,-17.021947,37116,2022-10-06,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Continental,205/55R16,Used,Magarpatta City,55.329173,88.333070,99727,2023-01-01,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Bridgestone,205/55R16,Used,Shivane,-41.961310,-118.889608,14160,2023-02-01,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Michelin,235/45R17,Used,Magarpatta City,-33.603286,-16.768816,20446,2023-03-15,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,215/60R16,Used,Bavdhan,-35.668883,-162.587769,44037,2023-07-31,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Goodyear,205/55R16,Used,Camp,26.286243,45.571702,27493,2022-10-04,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Pirelli,205/55R16,Used,Hinjewadi,-27.3841785,139.466207,24215,2022-12-07,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Continental,225/45R17,Scrap,Shivajinagar,19.641240,-159.154086,18677,2023-09-05,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,235/45R17,Used,Kalyani Nagar,-67.206085,134.613389,64037,2023-07-21,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Bridgestone,225/50R17,Scrap,Kharadi,-73.046391,124.752497,52752,2023-03-03,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,225/45R17,Scrap,Koregaon Park,-10.4193885,91.987835,98719,2023-01-09,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Bridgestone,225/45R17,Scrap,Kothrud,44.841656,144.659782,30250,2022-11-20,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,225/45R17,Used,Kothrud,-40.7186005,116.591210,23007,2022-11-11,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Bridgestone,225/45R17,Scrap,Vishrantwadi,46.8041955,-116.460189,87483,2023-02-06,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,225/50R17,Scrap,Vishrantwadi,-16.435950,62.068122,67905,2023-03-09,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Continental,225/50R17,Scrap,Magarpatta City,-36.1497805,-149.953103,13992,2022-11-16,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Pirelli,225/50R17,Scrap,Camp,-22.121082,-113.854890,45964,2023-04-16,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,225/50R17,Used,Hadapsar,80.7647695,178.103649,69566,2023-08-16,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,235/45R17,Scrap,Vishrantwadi,5.279398,-164.414037,17336,2023-08-07,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Continental,225/45R17,Used,Hinjewadi,31.0020845,79.043289,32583,2023-02-04,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Continental,225/50R17,Used,Vishrantwadi,-3.038845,127.597994,24991,2023-01-30,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Pirelli,205/55R16,Used,Kharadi,-20.179088,37.912415,58472,2022-10-14,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,225/50R17,Used,Shivane,-12.1541075,-18.214535,51065,2023-02-25,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,235/45R17,Scrap,Aundh,-85.4907025,-66.881461,37481,2023-09-11,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,225/50R17,Used,Camp,-80.171832,169.313355,01499,2023-05-20,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Goodyear,205/55R16,Used,Hadapsar,21.8631305,82.645049,77613,2023-05-22,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,225/45R17,Scrap,Deccan,-18.908557,-26.981131,77221,2023-04-27,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,225/45R17,Scrap,Kharadi,38.1259015,61.940064,66180,2023-04-13,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Pirelli,225/50R17,Scrap,Koregaon Park,-40.085644,51.415700,21263,2022-10-08,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,225/45R17,Used,Bavdhan,11.6551655,-35.532480,13173,2023-04-08,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Michelin,235/45R17,Used,Bavdhan,-68.828132,49.781688,23747,2023-09-19,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Michelin,225/50R17,Used,Kothrud,-84.1373135,-24.717017,29515,2023-06-08,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,205/55R16,Used,Kharadi,7.4029155,-169.058076,10123,2022-12-11,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Michelin,205/55R16,Scrap,Koregaon Park,59.2086705,-96.896162,91189,2023-06-24,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,225/45R17,Scrap,Camp,-30.7854285,-24.086529,08275,2023-01-21,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Continental,215/60R16,Used,Deccan,-30.190778,-115.209447,32205,2023-02-08,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Michelin,225/45R17,Used,Shivajinagar,44.6138825,127.336134,05249,2023-01-30,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,235/45R17,Scrap,Vishrantwadi,-36.188753,2.263968,65311,2023-01-13,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Continental,235/45R17,Used,Aundh,52.764691,77.013585,83883,2022-11-25,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,225/45R17,Used,Shivajinagar,-59.8830215,135.446266,10933,2022-12-14,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Goodyear,235/45R17,Used,Magarpatta City,-74.5505465,9.230766,07536,2022-11-03,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Continental,235/45R17,Used,Aundh,56.259966,-85.256230,36987,2023-07-10,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,215/60R16,Scrap,Vishrantwadi,19.3717695,114.868240,73232,2023-08-14,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Michelin,225/50R17,Scrap,Deccan,-54.213709,-12.828546,34053,2023-01-13,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Goodyear,235/45R17,Scrap,Bavdhan,54.8442035,143.225162,13730,2022-12-01,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Michelin,205/55R16,Used,Deccan,-23.2972675,117.464961,58540,2023-06-13,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Goodyear,215/60R16,Scrap,Bavdhan,0.7269465,174.835477,84388,2023-05-03,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Goodyear,225/50R17,Used,Bavdhan,-28.6407905,-115.958328,87605,2022-10-19,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,215/60R16,Used,Camp,-54.4300025,-105.328293,39548,2022-12-15,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Goodyear,225/50R17,Scrap,Bavdhan,-76.9605245,42.858408,77714,2023-01-19,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,215/60R16,Used,Deccan,67.0324035,-20.885646,99305,2023-02-15,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Pirelli,225/45R17,Used,Kharadi,-1.2111375,-98.546185,18898,2023-02-17,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Continental,225/45R17,Used,Vishrantwadi,-21.5254265,118.220546,77670,2022-11-01,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Continental,225/50R17,Used,Kalyani Nagar,5.6006485,-107.043599,28351,2022-12-30,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Bridgestone,205/55R16,Used,Aundh,-7.4810765,-133.031586,96111,2023-05-06,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,205/55R16,Scrap,Hadapsar,18.803963,-99.024321,23679,2023-04-21,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,225/50R17,Used,Kalyani Nagar,-26.7219975,5.592076,38064,2023-04-18,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Continental,225/45R17,Scrap,Magarpatta City,51.1407895,102.270492,38584,2023-02-22,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Continental,225/50R17,Scrap,Vishrantwadi,-27.5229245,-106.722856,06536,2023-02-07,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,225/45R17,Scrap,Kothrud,21.0449465,-127.907552,11702,2022-12-31,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Bridgestone,225/50R17,Scrap,Shivane,84.832158,139.057104,31873,2022-11-15,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Goodyear,215/60R16,Used,Koregaon Park,17.7529985,139.840259,07690,2023-01-08,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Continental,225/50R17,Scrap,Vishrantwadi,-26.666713,-113.201187,82004,2023-05-25,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Bridgestone,205/55R16,Used,Deccan,-45.8255335,161.923667,08581,2022-12-12,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Goodyear,205/55R16,Scrap,Shivane,3.609495,-84.506272,47443,2023-08-15,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,205/55R16,Used,Shivane,44.777282,-11.856957,57950,2023-05-22,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,235/45R17,Used,Magarpatta City,67.382838,-38.697337,59784,2022-10-07,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,225/50R17,Used,Kothrud,-57.342407,170.067536,85251,2023-06-07,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Pirelli,215/60R16,Scrap,Magarpatta City,-46.739195,-138.437792,41390,2022-11-01,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Pirelli,215/60R16,Used,Camp,72.6300735,1.750158,80899,2023-02-07,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Pirelli,225/45R17,Scrap,Bavdhan,84.2515495,-60.267998,17131,2023-01-14,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Continental,225/45R17,Scrap,Shivajinagar,55.429348,-48.352862,90706,2022-10-25,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,215/60R16,Used,Magarpatta City,-82.940656,-0.048709,20064,2023-05-28,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Pirelli,215/60R16,Scrap,Shivane,-47.0652775,-17.772038,29402,2023-02-12,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,225/50R17,Used,Hinjewadi,-84.8997835,-134.233415,09722,2023-07-27,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,215/60R16,Scrap,Magarpatta City,56.298581,-94.538980,84965,2023-05-03,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Continental,215/60R16,Used,Deccan,-36.614275,-41.979544,25382,2022-10-14,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Michelin,225/45R17,Used,Shivane,32.7814025,-11.866062,44720,2022-11-04,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,205/55R16,Used,Shivane,85.135879,155.983300,54548,2023-03-02,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Bridgestone,215/60R16,Scrap,Aundh,84.899199,140.348274,25342,2023-02-17,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,205/55R16,Used,Shivane,61.1781555,101.636951,45856,2023-04-19,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Continental,215/60R16,Used,Kalyani Nagar,-38.0669975,-65.688627,44455,2023-05-10,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Continental,205/55R16,Scrap,Vishrantwadi,65.8353195,38.512917,57738,2022-10-09,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,215/60R16,Scrap,Shivajinagar,89.4505625,-150.964924,29383,2023-04-04,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,205/55R16,Used,Koregaon Park,80.4605695,-98.175350,60094,2023-09-08,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,205/55R16,Used,Hinjewadi,-30.1327295,-89.344181,21822,2023-06-08,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Michelin,225/45R17,Used,Vishrantwadi,81.372843,39.327081,67294,2023-07-14,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Goodyear,225/45R17,Used,Shivajinagar,51.138101,25.814252,10491,2023-08-05,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,205/55R16,Scrap,Shivajinagar,-54.439191,99.567597,56590,2023-08-04,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Continental,205/55R16,Used,Kalyani Nagar,-20.3672255,65.468517,26155,2022-10-24,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Michelin,225/45R17,Used,Kalyani Nagar,0.471884,-146.370581,43983,2023-09-03,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Michelin,215/60R16,Scrap,Shivajinagar,3.5050935,56.719000,37302,2023-03-29,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Continental,225/45R17,Used,Hinjewadi,-12.101181,-84.547851,03531,2023-03-13,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Bridgestone,225/45R17,Scrap,Aundh,-73.4151445,49.013961,02623,2023-09-02,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,215/60R16,Scrap,Koregaon Park,-44.588328,19.803978,33595,2023-02-02,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Goodyear,215/60R16,Scrap,Kothrud,-55.4721865,-97.757162,50776,2023-01-28,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,225/50R17,Scrap,Kharadi,14.358384,171.022162,56389,2023-08-11,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,205/55R16,Scrap,Koregaon Park,-23.1769525,-97.852856,88742,2023-03-10,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,205/55R16,Scrap,Hinjewadi,-20.431157,25.362277,52212,2022-11-23,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Michelin,215/60R16,Scrap,Vishrantwadi,-71.584483,20.879685,50676,2022-11-25,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,205/55R16,Scrap,Bavdhan,80.612686,-11.162341,28130,2023-07-25,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,205/55R16,Scrap,Kothrud,56.164288,95.250929,10325,2023-01-11,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Continental,215/60R16,Scrap,Shivane,59.9285475,61.353230,47783,2023-01-01,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Bridgestone,225/50R17,Used,Vishrantwadi,-23.936208,-92.893654,76516,2022-12-26,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Continental,235/45R17,Used,Hinjewadi,-65.5673535,32.995190,41396,2023-04-05,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Bridgestone,205/55R16,Used,Hadapsar,79.9646675,164.770296,90394,2023-06-14,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Continental,205/55R16,Scrap,Bavdhan,-27.724777,120.318387,40658,2023-08-31,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Bridgestone,225/50R17,Used,Magarpatta City,-13.757166,-2.098406,04212,2023-03-20,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Continental,225/45R17,Scrap,Deccan,89.535096,-149.944306,95842,2023-08-22,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,225/50R17,Scrap,Hinjewadi,-81.589369,49.577521,62430,2023-09-22,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,215/60R16,Used,Shivane,10.3243115,153.674338,26686,2023-04-11,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,235/45R17,Scrap,Kothrud,55.195917,-90.585328,68900,2023-04-18,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Bridgestone,225/50R17,Scrap,Kalyani Nagar,-26.402903,-28.244079,49773,2023-04-21,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Goodyear,225/50R17,Scrap,Vishrantwadi,15.5414165,-133.197131,85828,2022-12-26,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,205/55R16,Used,Shivane,15.907562,47.917854,22476,2023-04-09,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,225/50R17,Used,Hinjewadi,46.165466,35.089691,38462,2023-03-15,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Continental,215/60R16,Used,Magarpatta City,27.363985,-164.930630,05484,2023-05-27,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Michelin,205/55R16,Used,Hadapsar,-15.898758,-173.292775,39589,2023-06-17,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Continental,225/45R17,Scrap,Magarpatta City,35.712978,-92.381268,95452,2023-06-17,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,235/45R17,Scrap,Kothrud,-23.0504745,-108.879173,76072,2023-07-07,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,205/55R16,Scrap,Bavdhan,-65.346045,97.086023,51810,2022-10-23,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,225/50R17,Scrap,Kalyani Nagar,-64.9748665,-85.342904,41454,2023-08-02,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Continental,215/60R16,Used,Vishrantwadi,-52.994374,-86.273604,85284,2023-06-03,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,225/50R17,Used,Hadapsar,30.265213,-142.962967,31742,2023-01-24,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Pirelli,235/45R17,Scrap,Hadapsar,35.443119,83.606109,50327,2023-02-12,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Continental,235/45R17,Scrap,Camp,79.606939,74.683583,31050,2023-07-28,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,215/60R16,Used,Aundh,71.277041,-108.210461,09428,2023-03-26,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Continental,215/60R16,Used,Kothrud,46.2126195,134.292554,92373,2023-09-20,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Continental,225/50R17,Used,Kothrud,-84.698377,103.959614,19937,2023-06-24,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Michelin,225/50R17,Scrap,Vishrantwadi,-42.6957835,131.573556,81640,2023-08-10,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Michelin,235/45R17,Scrap,Kalyani Nagar,9.6480245,-25.149624,66614,2022-12-20,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,205/55R16,Scrap,Camp,-2.714569,59.619731,78965,2023-06-05,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Michelin,225/45R17,Used,Vishrantwadi,-1.3327345,-146.360466,25363,2023-07-13,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Bridgestone,225/50R17,Scrap,Hinjewadi,59.346087,-176.259061,18728,2023-08-22,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Michelin,215/60R16,Used,Koregaon Park,-81.160676,116.292209,19379,2023-08-15,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Continental,205/55R16,Used,Vishrantwadi,72.016630,32.326741,44596,2023-05-23,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Bridgestone,225/45R17,Used,Shivajinagar,14.9556325,-37.084984,19630,2022-10-04,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Pirelli,225/50R17,Scrap,Bavdhan,-30.2726885,-104.338598,61170,2023-04-11,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,215/60R16,Used,Kothrud,48.8263905,109.636760,80737,2023-03-29,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Pirelli,235/45R17,Scrap,Shivajinagar,44.7654855,-167.174814,17168,2023-03-17,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,225/50R17,Scrap,Camp,13.956322,-15.718661,01328,2023-02-24,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,215/60R16,Used,Shivane,29.120522,-99.780877,29635,2023-07-12,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Pirelli,235/45R17,Used,Magarpatta City,44.0702435,-51.807688,60704,2023-02-11,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Continental,225/50R17,Used,Camp,-35.836633,-138.776965,39795,2023-08-30,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Continental,225/50R17,Scrap,Shivajinagar,23.1490135,40.766345,17549,2023-08-23,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Pirelli,205/55R16,Used,Koregaon Park,82.6896295,-67.032257,78411,2023-07-24,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,225/50R17,Scrap,Deccan,82.481275,-154.247487,64291,2022-12-31,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,215/60R16,Scrap,Bavdhan,20.580615,-95.556841,89132,2022-11-03,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Michelin,235/45R17,Scrap,Deccan,-70.6368835,70.733101,57375,2023-02-20,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,225/45R17,Scrap,Vishrantwadi,-21.213601,42.460251,58336,2023-03-01,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,225/50R17,Used,Shivajinagar,56.0594755,-175.893396,85854,2023-08-21,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,235/45R17,Used,Vishrantwadi,27.1212715,-136.217307,64306,2023-02-20,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Goodyear,205/55R16,Used,Hinjewadi,82.490311,145.253324,69032,2023-06-30,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Continental,225/50R17,Used,Kharadi,18.8434245,5.293770,05126,2023-02-19,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Goodyear,235/45R17,Used,Magarpatta City,75.202994,118.806033,25216,2023-01-16,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,225/45R17,Used,Shivane,-58.4886215,179.137357,88458,2023-03-27,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Continental,205/55R16,Scrap,Magarpatta City,16.5817505,-10.806423,32945,2023-08-15,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Goodyear,205/55R16,Scrap,Kothrud,4.407259,-116.833659,24381,2023-01-10,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,215/60R16,Scrap,Hadapsar,-47.128508,-17.465470,63477,2023-03-13,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,205/55R16,Scrap,Deccan,-62.366766,-56.495964,54362,2022-11-21,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Michelin,225/50R17,Scrap,Bavdhan,-1.768976,-100.000156,99912,2022-10-30,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Continental,225/50R17,Scrap,Magarpatta City,-22.203570,59.787885,94768,2023-07-26,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Continental,225/45R17,Scrap,Kharadi,2.8108575,135.379103,71642,2023-09-17,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,235/45R17,Scrap,Kalyani Nagar,-5.308320,-117.517568,35381,2023-01-06,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Pirelli,225/45R17,Scrap,Camp,-16.2245215,121.988378,93108,2023-08-24,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,205/55R16,Scrap,Kalyani Nagar,-31.221494,-2.931566,33516,2023-04-03,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,205/55R16,Scrap,Hadapsar,36.5334125,165.933268,95243,2023-05-29,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,225/50R17,Scrap,Kalyani Nagar,88.029264,43.310605,52411,2023-03-07,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Pirelli,225/45R17,Scrap,Kothrud,74.4250825,-7.528108,76914,2022-10-19,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,225/50R17,Used,Camp,-12.2562085,75.516747,42969,2023-01-21,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,215/60R16,Scrap,Deccan,-56.627065,34.466233,93735,2023-02-13,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Goodyear,235/45R17,Used,Bavdhan,80.7628395,30.561982,51054,2023-05-25,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Continental,235/45R17,Used,Vishrantwadi,5.144292,-175.122792,45728,2023-05-13,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Michelin,215/60R16,Used,Kharadi,10.171674,-49.505801,47451,2023-09-22,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,225/45R17,Used,Shivane,17.202097,-142.321644,01840,2023-06-08,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Michelin,225/50R17,Used,Kharadi,-82.636264,-4.549704,54508,2023-03-19,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Pirelli,225/45R17,Scrap,Hinjewadi,-9.3826195,118.984712,50086,2022-09-30,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,215/60R16,Scrap,Hadapsar,73.1196865,46.097746,71013,2022-11-30,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Pirelli,225/45R17,Scrap,Deccan,-15.6558345,-158.014988,17161,2022-11-27,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,235/45R17,Used,Hinjewadi,66.780217,147.308978,52448,2023-02-07,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Bridgestone,235/45R17,Used,Vishrantwadi,7.7514615,101.713115,54429,2022-09-27,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,235/45R17,Used,Aundh,-19.567834,-123.712264,57845,2023-06-17,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Continental,235/45R17,Scrap,Koregaon Park,-31.9709235,111.634212,94086,2023-06-27,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,225/45R17,Scrap,Kharadi,-59.4517405,-55.454474,26243,2022-10-27,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,235/45R17,Scrap,Kothrud,-5.556998,166.520339,53024,2023-08-26,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,205/55R16,Scrap,Bavdhan,77.2872865,7.847329,78463,2023-06-20,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Goodyear,225/45R17,Scrap,Hinjewadi,71.1429875,-11.561875,58230,2022-12-29,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Michelin,235/45R17,Scrap,Bavdhan,49.962756,2.311845,19016,2023-02-15,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Pirelli,215/60R16,Scrap,Shivane,-36.2217775,116.215793,83249,2022-11-03,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,235/45R17,Used,Aundh,-21.4705685,158.589985,44353,2023-08-31,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,205/55R16,Scrap,Camp,-13.990229,-158.237921,74317,2022-12-23,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Bridgestone,225/45R17,Used,Aundh,-42.7708625,-65.459274,21316,2023-06-27,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,205/55R16,Scrap,Magarpatta City,-4.750120,-124.357035,19785,2023-02-05,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,235/45R17,Used,Kharadi,-84.6023175,22.477073,31033,2023-01-23,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,205/55R16,Scrap,Vishrantwadi,27.946638,-27.816859,49576,2023-07-17,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,215/60R16,Scrap,Magarpatta City,86.7294665,54.492029,08931,2023-06-18,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Bridgestone,225/50R17,Used,Hinjewadi,49.8116925,-111.394473,95458,2023-06-23,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Michelin,225/50R17,Scrap,Aundh,-68.117417,106.294038,17148,2022-10-25,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Continental,225/50R17,Scrap,Bavdhan,-32.2636445,-108.957936,02422,2023-01-19,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Continental,215/60R16,Scrap,Kalyani Nagar,-55.7501095,3.852286,29597,2023-04-13,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,225/45R17,Used,Vishrantwadi,-55.360343,12.789348,37610,2023-08-23,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Continental,215/60R16,Used,Koregaon Park,-51.686101,35.065052,98329,2023-08-17,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Continental,225/45R17,Scrap,Deccan,-31.9945755,6.084824,73934,2023-07-18,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,215/60R16,Scrap,Hadapsar,86.3552565,43.887202,27875,2023-03-03,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Bridgestone,225/45R17,Scrap,Hinjewadi,69.0239275,154.649194,24541,2023-09-13,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Continental,205/55R16,Used,Shivajinagar,-50.6367225,177.683809,17139,2023-04-02,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Pirelli,205/55R16,Scrap,Shivajinagar,-41.3120035,131.697548,84816,2023-08-12,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Continental,225/50R17,Used,Hadapsar,65.4750135,-125.686238,32507,2022-10-07,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Continental,205/55R16,Used,Kharadi,34.4009835,-137.573399,65974,2023-06-18,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,215/60R16,Scrap,Kothrud,-57.621201,127.536057,47515,2022-10-25,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Bridgestone,215/60R16,Scrap,Kothrud,-86.890863,-88.012911,16592,2023-01-27,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Michelin,225/50R17,Scrap,Shivajinagar,-80.612681,13.687369,98403,2023-09-12,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,205/55R16,Scrap,Bavdhan,12.989335,22.839516,04137,2023-05-15,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Continental,215/60R16,Used,Deccan,-58.855621,-57.386198,74351,2023-04-25,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,235/45R17,Used,Aundh,-39.8527465,67.103367,56498,2023-01-24,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Goodyear,215/60R16,Scrap,Shivane,40.8592305,-58.429339,94016,2023-07-21,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,225/50R17,Scrap,Hinjewadi,8.1010705,116.528908,68273,2023-02-07,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Bridgestone,225/45R17,Used,Magarpatta City,19.762681,-74.524460,04343,2023-06-12,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Michelin,225/45R17,Used,Shivane,-31.7039885,47.525897,96460,2023-02-02,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Goodyear,225/50R17,Used,Kothrud,81.6498385,8.268332,34045,2023-04-03,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,205/55R16,Used,Kharadi,-86.6798595,-165.641155,52258,2023-01-05,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Pirelli,225/50R17,Used,Shivane,-13.3808905,-43.680482,50942,2022-12-16,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Continental,225/50R17,Used,Shivane,29.5330975,179.357963,96328,2023-07-25,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Continental,225/50R17,Scrap,Aundh,63.0911395,126.132883,01261,2023-09-14,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Michelin,225/45R17,Scrap,Hadapsar,-37.9192745,171.696732,75109,2022-12-01,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,205/55R16,Used,Shivane,-55.3180375,13.397383,07237,2022-10-17,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Pirelli,225/45R17,Scrap,Hinjewadi,82.2654655,-151.975751,10958,2022-10-01,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Michelin,205/55R16,Scrap,Koregaon Park,6.1316995,44.019730,13461,2023-07-04,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Pirelli,205/55R16,Scrap,Kothrud,53.8079875,-4.889287,71885,2022-12-19,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,235/45R17,Scrap,Camp,-66.3985965,-134.383702,46661,2023-09-08,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Bridgestone,225/45R17,Scrap,Shivajinagar,-14.883387,53.449138,19727,2023-02-14,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Goodyear,225/50R17,Used,Deccan,-7.369898,-135.983547,34801,2023-06-15,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,225/45R17,Scrap,Hadapsar,33.6001235,-127.101669,70331,2023-09-10,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,215/60R16,Used,Hinjewadi,-71.008144,33.511521,51347,2023-03-29,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Michelin,225/50R17,Scrap,Hinjewadi,-31.3031585,121.104151,84904,2023-05-18,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Michelin,235/45R17,Used,Magarpatta City,-65.316951,30.072219,06293,2023-06-24,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,215/60R16,Used,Hinjewadi,2.0351785,-45.880731,43186,2023-03-13,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,225/45R17,Used,Kalyani Nagar,-72.642030,-59.767926,37549,2022-10-14,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,235/45R17,Used,Kharadi,-61.8710565,-175.062019,41740,2023-09-23,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,225/45R17,Scrap,Kalyani Nagar,67.795223,153.578274,70628,2022-11-04,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,215/60R16,Used,Koregaon Park,32.950076,-31.306848,76541,2023-03-17,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,225/50R17,Used,Kalyani Nagar,-57.6866025,-23.806511,30217,2023-05-29,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Continental,225/50R17,Used,Hinjewadi,-55.629090,-19.580382,85303,2023-01-24,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,205/55R16,Scrap,Hadapsar,15.662669,133.788384,27358,2022-12-06,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,235/45R17,Used,Shivajinagar,2.148510,-66.244092,61880,2023-08-26,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,205/55R16,Used,Vishrantwadi,85.8612555,70.440487,40584,2022-10-12,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Michelin,225/50R17,Used,Shivane,-6.892843,-47.756778,35528,2023-07-19,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,205/55R16,Scrap,Shivajinagar,-35.3762155,-22.808225,80716,2023-07-24,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Goodyear,205/55R16,Used,Kharadi,42.3319845,82.725113,51914,2023-04-23,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,235/45R17,Used,Deccan,72.1959825,95.948216,33765,2022-10-26,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,235/45R17,Used,Kothrud,-79.6560635,-1.145829,13020,2023-07-03,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Pirelli,215/60R16,Scrap,Shivajinagar,-57.0564645,146.161003,81444,2023-02-24,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Continental,205/55R16,Scrap,Hadapsar,-3.582833,-94.073730,08141,2022-10-18,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Goodyear,215/60R16,Scrap,Koregaon Park,-48.1045065,-51.621923,69829,2023-05-15,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Michelin,205/55R16,Used,Deccan,32.2950595,33.974799,08683,2023-07-23,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Continental,235/45R17,Used,Vishrantwadi,-83.949388,-164.909435,18555,2023-05-20,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,225/50R17,Used,Bavdhan,31.9876065,129.676022,62582,2023-07-05,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,235/45R17,Used,Camp,-9.0419845,78.048680,95804,2023-07-16,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,205/55R16,Used,Camp,83.508148,-178.615481,15913,2023-07-12,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,225/45R17,Scrap,Hadapsar,41.0399515,-171.065965,77350,2022-10-04,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Pirelli,225/45R17,Scrap,Deccan,10.2711775,-142.391432,41457,2023-09-10,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,225/50R17,Scrap,Kalyani Nagar,36.774771,113.714524,41665,2022-11-26,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,205/55R16,Used,Vishrantwadi,-57.394494,61.242257,37858,2023-03-31,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Continental,235/45R17,Used,Vishrantwadi,69.366202,-96.686176,76320,2023-04-30,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,235/45R17,Used,Magarpatta City,83.599468,-157.015322,99893,2023-01-31,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,205/55R16,Used,Hinjewadi,-1.461386,-103.302894,43549,2023-03-26,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,225/45R17,Scrap,Magarpatta City,-20.1909185,160.512457,21160,2022-11-28,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Pirelli,235/45R17,Used,Hadapsar,43.6170785,79.533464,33457,2023-07-05,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Pirelli,205/55R16,Used,Kalyani Nagar,33.8172545,14.797206,65609,2023-02-24,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,235/45R17,Scrap,Hadapsar,60.0135005,106.269693,73069,2023-07-05,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Bridgestone,225/50R17,Used,Kalyani Nagar,36.7533325,-175.664638,56906,2022-11-19,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,205/55R16,Scrap,Deccan,43.143534,-64.632083,31775,2023-06-15,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Bridgestone,225/50R17,Scrap,Kothrud,-63.802395,82.921647,01111,2022-10-14,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Continental,225/50R17,Scrap,Shivajinagar,-70.2836775,43.273180,64749,2022-10-24,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Michelin,225/45R17,Scrap,Kalyani Nagar,81.8899815,-166.157489,04491,2023-08-15,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,215/60R16,Scrap,Hadapsar,72.172157,147.917888,33085,2023-07-27,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,215/60R16,Scrap,Aundh,40.200759,150.981767,34275,2022-12-27,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,205/55R16,Used,Hinjewadi,-63.123794,116.819015,19369,2023-03-29,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Michelin,205/55R16,Scrap,Hadapsar,86.936460,-135.953699,83126,2023-03-29,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Bridgestone,225/50R17,Used,Shivane,-31.3588145,-153.483569,77881,2022-11-11,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,205/55R16,Used,Vishrantwadi,-41.964750,-115.563442,15934,2022-10-26,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Bridgestone,205/55R16,Scrap,Deccan,51.8162925,67.823936,95465,2022-11-27,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Bridgestone,235/45R17,Scrap,Koregaon Park,-39.886245,-139.754440,80695,2023-02-10,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Continental,225/50R17,Used,Kharadi,-21.053826,-56.747470,16368,2023-08-17,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Continental,235/45R17,Scrap,Kharadi,-85.5994375,-68.537121,68312,2023-07-12,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Goodyear,235/45R17,Used,Camp,-17.9075585,143.816981,31408,2023-02-14,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Continental,215/60R16,Used,Aundh,3.743013,70.325283,80048,2023-09-20,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Continental,225/45R17,Used,Kharadi,34.303185,100.614402,33465,2023-06-26,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Continental,225/50R17,Scrap,Aundh,5.715339,-163.082234,68719,2022-10-13,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Michelin,225/50R17,Scrap,Camp,42.820682,-108.560101,30434,2022-10-23,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Continental,225/50R17,Used,Shivane,-33.2037015,-98.679154,65217,2022-09-28,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Pirelli,225/50R17,Scrap,Hadapsar,18.987978,77.812012,50796,2023-04-25,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Goodyear,205/55R16,Used,Koregaon Park,-58.7850165,-119.913647,94801,2023-04-27,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,205/55R16,Scrap,Vishrantwadi,76.0021745,-75.130921,43616,2022-10-24,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Goodyear,215/60R16,Scrap,Hadapsar,35.913832,-133.056472,11227,2023-05-04,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Continental,225/45R17,Scrap,Bavdhan,-42.3562695,-112.796943,28753,2022-11-11,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,225/50R17,Scrap,Hinjewadi,59.0519495,-105.828186,86135,2023-05-06,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Continental,205/55R16,Used,Aundh,-41.6050025,9.931801,16283,2023-08-13,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Pirelli,205/55R16,Used,Shivane,-56.650484,24.475391,61266,2022-11-07,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Continental,235/45R17,Scrap,Kothrud,76.0751485,162.982446,59104,2023-07-02,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,225/45R17,Scrap,Kharadi,-57.1095075,54.629357,93937,2023-07-23,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,225/50R17,Used,Kothrud,-29.2670475,178.162400,63152,2022-10-11,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Continental,225/45R17,Used,Shivajinagar,58.784645,131.613268,91575,2023-07-17,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,215/60R16,Scrap,Kalyani Nagar,-1.076796,-126.362771,89790,2022-11-10,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Michelin,215/60R16,Used,Kalyani Nagar,-83.136933,-89.146688,31369,2023-04-20,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,225/50R17,Used,Deccan,-36.314117,-90.714335,18452,2023-04-16,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Continental,205/55R16,Used,Bavdhan,-34.104944,40.754437,30557,2023-02-10,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Goodyear,225/45R17,Used,Hinjewadi,-21.504421,48.491716,85293,2023-04-08,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,215/60R16,Scrap,Hinjewadi,-47.937628,71.576590,64152,2023-06-12,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Goodyear,215/60R16,Scrap,Hadapsar,55.7279235,-142.638065,99282,2023-01-06,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,225/45R17,Used,Vishrantwadi,-0.5370945,109.072091,62271,2023-03-06,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Michelin,225/50R17,Used,Kharadi,-16.5277985,-136.207199,76210,2022-11-09,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,205/55R16,Used,Aundh,89.9486345,101.694681,56169,2023-04-26,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,205/55R16,Used,Shivajinagar,2.631843,55.532929,24278,2023-01-09,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Pirelli,235/45R17,Used,Camp,40.2588435,-164.350706,17157,2023-03-18,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Continental,235/45R17,Used,Bavdhan,-53.4120175,122.156123,01365,2023-05-15,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Continental,225/45R17,Scrap,Shivajinagar,55.7531365,124.967439,36883,2022-12-01,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Pirelli,215/60R16,Used,Shivane,71.5104445,174.473117,02285,2023-01-10,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Pirelli,235/45R17,Used,Camp,82.874448,-52.928886,37867,2023-02-17,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Continental,225/45R17,Used,Shivajinagar,25.3892415,-79.828126,74933,2023-02-04,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,225/45R17,Used,Shivajinagar,-47.6305205,-9.812557,42289,2022-12-26,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,225/50R17,Used,Kharadi,-51.6337175,-44.762330,71478,2023-01-23,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Continental,235/45R17,Used,Magarpatta City,-37.5354565,-176.993163,68512,2022-10-24,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,235/45R17,Scrap,Aundh,63.292115,-162.655800,36962,2023-03-17,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,235/45R17,Scrap,Kalyani Nagar,-38.530854,93.956786,55912,2022-12-26,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,205/55R16,Scrap,Hadapsar,-66.6408195,60.091888,70062,2023-08-29,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,235/45R17,Scrap,Shivane,35.5637135,-9.088794,37757,2022-12-08,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Continental,235/45R17,Used,Shivajinagar,-31.212292,-81.428041,38635,2022-12-18,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Goodyear,225/45R17,Scrap,Deccan,75.2166945,172.726001,73231,2023-03-16,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Continental,235/45R17,Used,Shivajinagar,15.985178,36.881243,37004,2023-02-28,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Continental,225/45R17,Scrap,Hadapsar,-25.5584415,-82.670612,08206,2023-02-26,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,235/45R17,Used,Deccan,29.7148375,-80.802298,04354,2022-12-02,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,225/50R17,Scrap,Hadapsar,-74.9938285,67.019106,99494,2023-01-01,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,225/50R17,Scrap,Aundh,-9.287709,-73.770949,43822,2022-12-07,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,215/60R16,Used,Hinjewadi,32.385193,-163.891282,63046,2022-11-29,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Bridgestone,235/45R17,Used,Hinjewadi,17.408377,-120.719910,55032,2023-05-04,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Goodyear,235/45R17,Scrap,Shivane,-77.1667595,-88.658849,16579,2023-06-23,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Goodyear,225/45R17,Used,Bavdhan,7.156613,-142.064188,37585,2022-10-11,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Continental,225/45R17,Used,Vishrantwadi,13.8421475,164.137305,87885,2023-07-02,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,225/50R17,Scrap,Vishrantwadi,21.400912,155.267109,17757,2022-11-19,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Continental,225/45R17,Used,Koregaon Park,49.3350065,34.197555,55590,2023-04-12,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,235/45R17,Used,Koregaon Park,-76.903098,111.058253,23236,2023-01-25,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Michelin,215/60R16,Used,Shivajinagar,-63.762307,17.507744,77331,2023-07-26,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,205/55R16,Scrap,Deccan,38.7481055,-161.668200,49158,2023-03-25,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Bridgestone,235/45R17,Scrap,Camp,50.111792,31.130582,59517,2023-02-04,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,225/50R17,Scrap,Shivajinagar,-65.3877995,18.848879,34543,2023-02-07,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,225/50R17,Scrap,Kharadi,29.404667,66.610354,04143,2023-01-26,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,215/60R16,Used,Hadapsar,22.7049495,-99.468157,84459,2023-03-23,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Continental,215/60R16,Scrap,Kharadi,-36.445233,107.330281,14427,2023-05-23,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Bridgestone,215/60R16,Used,Kharadi,2.269164,62.623500,27294,2023-07-20,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Michelin,235/45R17,Scrap,Hadapsar,37.0902215,15.402832,89063,2023-06-04,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Goodyear,235/45R17,Used,Shivane,60.100239,0.232294,16673,2023-04-19,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Pirelli,205/55R16,Scrap,Deccan,63.1289965,161.354575,02996,2022-10-05,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Continental,225/45R17,Used,Aundh,30.728770,149.377904,98799,2023-08-11,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,205/55R16,Used,Koregaon Park,-79.4920845,23.272187,77114,2023-06-06,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Pirelli,225/50R17,Scrap,Camp,80.978891,81.363985,23590,2023-02-26,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,215/60R16,Used,Bavdhan,31.7040245,50.237849,07168,2022-10-21,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Pirelli,225/50R17,Scrap,Hadapsar,46.831190,110.535755,64074,2023-02-13,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Continental,215/60R16,Used,Koregaon Park,-39.9643645,57.988179,15279,2022-12-19,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,225/45R17,Scrap,Shivane,-32.3587285,11.615779,74613,2022-11-08,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Bridgestone,225/50R17,Scrap,Shivajinagar,-19.1742005,-95.935042,01651,2022-10-04,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,215/60R16,Used,Kothrud,-84.918264,49.098586,96844,2023-06-17,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,215/60R16,Used,Aundh,-80.1353475,-101.482952,96496,2022-12-25,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Continental,235/45R17,Used,Shivane,62.5233785,19.608040,64068,2023-02-19,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,225/45R17,Scrap,Hinjewadi,-23.9968425,-68.661748,32340,2023-01-15,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,235/45R17,Used,Shivajinagar,78.428617,-7.793160,40412,2023-04-24,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,225/50R17,Scrap,Hinjewadi,68.962892,71.938151,27760,2023-07-28,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Pirelli,225/45R17,Scrap,Koregaon Park,-53.451916,-53.303382,88336,2023-05-02,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,205/55R16,Scrap,Deccan,80.7369205,-137.364741,38293,2022-10-01,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Continental,225/45R17,Scrap,Koregaon Park,-61.5416055,-112.290266,72493,2023-05-20,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,225/50R17,Scrap,Hinjewadi,-63.9373245,-140.538977,64425,2023-07-15,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Pirelli,235/45R17,Scrap,Aundh,-33.428344,67.532992,54888,2022-10-31,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,235/45R17,Used,Aundh,-5.8715225,-71.543473,11280,2023-08-17,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,205/55R16,Scrap,Vishrantwadi,15.0797915,-159.180908,20365,2023-02-07,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Pirelli,235/45R17,Scrap,Bavdhan,-17.153730,-31.359890,62418,2023-08-20,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Pirelli,235/45R17,Used,Kothrud,-32.0462055,-41.474436,98086,2022-10-07,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Goodyear,215/60R16,Used,Kothrud,66.7195215,-95.601140,82099,2022-12-07,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Pirelli,205/55R16,Used,Kothrud,35.3608415,-168.380108,57542,2022-11-29,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Bridgestone,235/45R17,Used,Shivajinagar,85.113787,163.496448,09998,2022-09-29,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,205/55R16,Used,Magarpatta City,51.226494,71.884284,04652,2023-07-09,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Michelin,205/55R16,Used,Hadapsar,59.9983725,-179.334435,39120,2023-01-16,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Continental,205/55R16,Scrap,Camp,-61.217468,-28.349870,24190,2023-04-04,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,215/60R16,Scrap,Hinjewadi,85.8504975,-76.095151,89411,2023-06-03,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,215/60R16,Scrap,Bavdhan,54.9873845,-111.665008,80935,2022-11-24,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,205/55R16,Scrap,Magarpatta City,-69.742617,-175.449132,45846,2023-04-05,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Bridgestone,225/50R17,Scrap,Kharadi,20.534299,-118.725522,87227,2023-01-11,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,215/60R16,Scrap,Kharadi,-28.816760,-14.581116,42291,2023-08-02,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Michelin,235/45R17,Used,Hadapsar,-25.809306,-138.459916,04100,2023-01-24,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Continental,235/45R17,Used,Deccan,-33.194903,-77.929945,07959,2022-10-01,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Continental,215/60R16,Scrap,Deccan,41.195508,15.299074,26485,2022-12-07,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Continental,235/45R17,Scrap,Vishrantwadi,89.9863505,-128.160270,95769,2022-11-06,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Continental,205/55R16,Scrap,Camp,-78.902220,157.132235,56738,2023-02-13,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Continental,225/50R17,Scrap,Shivajinagar,-38.3648455,-19.580423,61075,2022-11-14,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,205/55R16,Used,Shivane,-53.659831,70.307126,43346,2022-10-13,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,235/45R17,Used,Deccan,-6.5123295,-174.268621,78937,2022-11-02,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,205/55R16,Used,Camp,61.6160215,-54.776174,22082,2023-02-05,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,225/45R17,Used,Deccan,52.897831,12.002648,29322,2023-06-28,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Bridgestone,205/55R16,Used,Hinjewadi,12.6936125,179.616573,75146,2022-11-05,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Michelin,235/45R17,Scrap,Kharadi,-78.307050,-168.586533,10698,2023-06-12,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Continental,235/45R17,Scrap,Shivajinagar,84.6983005,-165.010623,42378,2023-04-03,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,215/60R16,Used,Hadapsar,-38.294643,-159.729401,90896,2023-05-28,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Pirelli,225/50R17,Scrap,Deccan,-34.091836,66.937563,62657,2023-01-18,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,225/50R17,Scrap,Magarpatta City,-10.031849,-154.622763,39619,2023-05-09,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Continental,225/50R17,Scrap,Magarpatta City,60.6758125,142.215804,03962,2023-04-26,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Michelin,215/60R16,Scrap,Kharadi,-32.9044945,46.702851,14367,2023-06-22,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,215/60R16,Scrap,Bavdhan,65.654765,-142.184532,74902,2023-02-22,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,225/50R17,Scrap,Hadapsar,88.909788,-143.738225,58695,2023-07-18,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Michelin,205/55R16,Scrap,Magarpatta City,-6.4614525,-51.049453,68076,2023-09-19,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,235/45R17,Scrap,Koregaon Park,33.980928,92.342180,72070,2023-06-04,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Continental,205/55R16,Used,Hinjewadi,-88.3489205,6.790439,49060,2022-10-30,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Bridgestone,205/55R16,Scrap,Bavdhan,55.1374515,154.523203,63703,2023-07-27,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Bridgestone,225/45R17,Used,Aundh,-16.445427,138.717520,04492,2023-05-21,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,205/55R16,Used,Bavdhan,45.433533,26.432106,75094,2023-03-23,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Michelin,235/45R17,Used,Shivane,67.6609035,-87.931828,68186,2023-03-18,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Continental,215/60R16,Used,Koregaon Park,-1.2761125,-35.572948,32837,2022-12-11,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,225/45R17,Used,Hinjewadi,77.5992495,-92.590087,26834,2023-07-22,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,225/45R17,Used,Aundh,-43.6915285,-125.101711,15208,2023-01-15,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,235/45R17,Scrap,Camp,10.045792,125.360359,98854,2022-10-09,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,225/50R17,Scrap,Kalyani Nagar,-28.249376,-177.671050,42606,2023-06-07,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,205/55R16,Scrap,Deccan,-6.4644335,8.073552,77885,2023-01-14,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Bridgestone,215/60R16,Used,Kothrud,-19.175401,-145.425921,02944,2023-01-18,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Continental,215/60R16,Used,Hinjewadi,78.2119505,-105.779461,51636,2023-03-30,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Bridgestone,215/60R16,Scrap,Vishrantwadi,4.724931,-142.579077,72547,2023-08-16,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Bridgestone,215/60R16,Used,Kothrud,-57.6542495,-75.350446,07039,2023-03-24,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Continental,235/45R17,Scrap,Hadapsar,20.7498115,-118.170316,62175,2023-01-03,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Bridgestone,205/55R16,Used,Aundh,74.500423,134.719333,68906,2023-07-21,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Bridgestone,225/50R17,Used,Koregaon Park,-73.2568025,119.670046,86303,2023-07-28,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Continental,225/45R17,Used,Kalyani Nagar,-76.408567,-18.195356,61918,2023-09-18,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,205/55R16,Used,Kharadi,-50.183525,173.897571,12685,2023-02-05,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Continental,235/45R17,Scrap,Camp,-37.7146365,-118.734904,42765,2023-04-11,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,225/45R17,Used,Deccan,48.320191,48.573484,46177,2022-11-30,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,215/60R16,Scrap,Deccan,78.085730,66.658569,13400,2023-01-14,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Bridgestone,215/60R16,Used,Magarpatta City,-61.479674,-36.253060,05375,2023-07-24,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,235/45R17,Scrap,Shivane,-8.6661805,-81.280766,93604,2023-08-23,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,205/55R16,Used,Bavdhan,80.6117435,-170.943839,81252,2023-04-07,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Pirelli,235/45R17,Scrap,Camp,-47.3986135,-29.854210,94082,2023-08-24,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,215/60R16,Scrap,Bavdhan,6.9240135,139.638267,76684,2022-11-03,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Continental,225/50R17,Used,Kothrud,50.738644,-40.170014,15245,2023-05-19,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Continental,235/45R17,Used,Kharadi,-74.5754975,-18.326146,17484,2023-01-17,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Continental,205/55R16,Scrap,Camp,11.532624,-46.302577,65715,2023-08-03,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,225/45R17,Used,Kharadi,-76.1455335,139.834077,24910,2023-01-11,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Continental,235/45R17,Used,Aundh,25.340031,-100.130075,53474,2022-10-30,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,235/45R17,Scrap,Shivajinagar,-41.0007365,73.198093,90063,2023-07-08,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Pirelli,215/60R16,Used,Shivane,67.786292,-107.199866,05830,2022-10-17,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,215/60R16,Used,Magarpatta City,19.6529745,31.721518,63284,2023-04-30,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,215/60R16,Used,Shivane,-24.7425185,28.622479,86290,2023-07-10,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Continental,225/45R17,Used,Koregaon Park,37.3146035,-14.544507,82139,2023-08-04,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,215/60R16,Scrap,Kalyani Nagar,-23.7778675,43.385412,26081,2023-05-03,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Bridgestone,215/60R16,Used,Kharadi,13.382900,173.708197,76061,2023-07-13,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Goodyear,235/45R17,Scrap,Camp,30.424593,74.865142,60653,2022-12-28,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Bridgestone,225/45R17,Scrap,Koregaon Park,24.4238135,-103.113356,12235,2023-01-08,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Continental,205/55R16,Used,Kalyani Nagar,-34.077066,-152.730425,94043,2023-08-18,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Michelin,225/45R17,Scrap,Hadapsar,-20.779576,-35.198525,33795,2023-01-25,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,235/45R17,Used,Kothrud,61.4503925,43.511633,41402,2023-04-03,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,235/45R17,Scrap,Camp,-31.211868,-126.066217,36619,2023-02-03,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Michelin,225/45R17,Scrap,Shivane,-80.490423,-111.262154,87280,2023-05-26,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,225/45R17,Used,Shivajinagar,-77.435782,94.418179,03003,2023-07-15,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Pirelli,235/45R17,Used,Vishrantwadi,13.717703,-102.634308,47958,2023-02-22,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Continental,205/55R16,Scrap,Shivane,-41.747386,-46.970897,14085,2023-07-19,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Continental,235/45R17,Scrap,Kalyani Nagar,62.523659,104.477270,87971,2023-01-19,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,215/60R16,Used,Magarpatta City,71.555035,160.039802,22957,2023-07-20,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,235/45R17,Scrap,Shivajinagar,-83.307423,118.787961,30820,2022-10-29,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,225/45R17,Used,Koregaon Park,-88.435668,19.776318,62206,2022-11-03,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,235/45R17,Scrap,Kalyani Nagar,39.476857,130.638200,99841,2023-08-08,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Continental,205/55R16,Scrap,Shivajinagar,46.3884365,-37.993647,22774,2023-04-11,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Bridgestone,215/60R16,Scrap,Vishrantwadi,19.4247225,-69.110053,65079,2022-10-27,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Continental,225/50R17,Scrap,Deccan,8.4242175,19.789939,72540,2023-03-22,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Bridgestone,215/60R16,Used,Magarpatta City,-34.8110905,67.743721,64956,2022-09-27,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,225/45R17,Used,Hinjewadi,50.6695325,82.890719,13724,2023-01-22,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,205/55R16,Scrap,Camp,-12.8838135,18.939011,32718,2023-03-24,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Michelin,215/60R16,Scrap,Shivane,54.145486,-98.674328,80491,2023-07-12,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Continental,225/45R17,Used,Bavdhan,-22.082411,-60.573425,76556,2023-08-12,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Continental,225/50R17,Scrap,Kalyani Nagar,-60.6568045,-174.711922,80436,2023-07-08,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Goodyear,215/60R16,Used,Camp,37.673633,-165.451174,24511,2023-03-08,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,235/45R17,Used,Deccan,-66.5495475,117.409120,98062,2023-06-15,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Pirelli,215/60R16,Scrap,Aundh,23.222422,-125.821017,75355,2023-01-09,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Bridgestone,225/45R17,Scrap,Bavdhan,49.091312,-148.545343,17783,2022-12-06,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Bridgestone,225/45R17,Scrap,Camp,36.5262975,32.774166,86893,2022-11-16,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Pirelli,235/45R17,Scrap,Shivane,51.163637,15.954290,63431,2022-12-31,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Pirelli,225/50R17,Used,Koregaon Park,-36.1054555,-133.903622,11082,2023-02-17,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Continental,225/45R17,Used,Koregaon Park,22.360906,146.825906,43842,2023-05-24,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Continental,215/60R16,Used,Kharadi,48.360377,-174.948080,27209,2023-09-19,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,225/45R17,Scrap,Bavdhan,1.6598255,102.292445,15006,2023-08-01,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Continental,235/45R17,Used,Koregaon Park,42.274854,-65.605771,98984,2023-09-22,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Goodyear,225/45R17,Used,Koregaon Park,-9.007127,-45.134920,68007,2023-08-19,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,235/45R17,Scrap,Kalyani Nagar,88.3047975,-45.027688,76013,2023-06-13,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Michelin,225/45R17,Scrap,Bavdhan,-60.387860,-102.562226,08835,2023-02-08,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Continental,225/50R17,Used,Deccan,9.970691,-170.310915,81568,2023-01-12,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Goodyear,215/60R16,Used,Hinjewadi,-46.6773515,-135.740975,17748,2023-09-23,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,235/45R17,Used,Hadapsar,58.1293425,136.609980,57306,2023-08-09,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,215/60R16,Used,Magarpatta City,-16.643674,-98.077574,79147,2023-09-20,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Pirelli,225/45R17,Scrap,Kharadi,33.141428,30.984001,86194,2022-12-01,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Pirelli,225/50R17,Used,Kharadi,-8.5116285,105.311745,49120,2022-09-27,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,235/45R17,Used,Magarpatta City,-48.0393345,134.533425,39797,2022-11-14,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Michelin,225/45R17,Used,Hinjewadi,53.3638195,-113.945635,54621,2023-03-10,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Goodyear,235/45R17,Scrap,Kothrud,24.3756735,173.338564,40451,2023-08-29,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,205/55R16,Scrap,Deccan,-39.715725,76.799365,38586,2023-08-09,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,225/45R17,Used,Kothrud,-28.123381,29.830166,24808,2022-12-04,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,205/55R16,Used,Shivajinagar,-57.726589,-24.650631,80581,2023-07-07,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Bridgestone,225/45R17,Scrap,Koregaon Park,32.890908,4.513270,66261,2023-08-29,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,225/50R17,Scrap,Deccan,-24.814382,-72.248241,11544,2023-09-11,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,225/50R17,Used,Shivane,-22.020399,-18.715822,74793,2022-11-15,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Goodyear,225/50R17,Used,Hinjewadi,7.3829195,-116.687602,05223,2022-12-08,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Pirelli,205/55R16,Used,Koregaon Park,45.757591,-25.206232,05996,2023-07-01,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Continental,215/60R16,Used,Kharadi,-46.3049445,-95.154533,78993,2023-05-24,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,225/45R17,Used,Hinjewadi,32.558548,-137.611193,50930,2023-02-28,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Pirelli,205/55R16,Scrap,Magarpatta City,9.6518395,85.695551,94011,2023-08-14,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Pirelli,225/45R17,Used,Shivajinagar,21.091976,-112.144546,14177,2023-01-05,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Continental,235/45R17,Scrap,Aundh,19.732098,-165.757581,69529,2023-06-08,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Continental,235/45R17,Scrap,Vishrantwadi,-76.086937,-159.261765,25623,2023-01-16,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Pirelli,225/45R17,Scrap,Shivane,47.1354505,36.368474,39670,2023-02-03,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Continental,225/45R17,Used,Hinjewadi,31.116138,-13.297019,56422,2023-01-01,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Michelin,235/45R17,Scrap,Deccan,-60.723283,-88.986250,76503,2022-11-17,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,205/55R16,Scrap,Vishrantwadi,-13.468857,90.374030,62985,2023-02-22,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,235/45R17,Used,Kothrud,18.315164,99.475004,86278,2022-12-10,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,225/50R17,Scrap,Camp,-77.4465445,-155.257996,80088,2023-08-05,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Michelin,235/45R17,Scrap,Kalyani Nagar,-23.4477605,52.091367,38669,2023-09-10,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Continental,235/45R17,Used,Hinjewadi,-5.5432015,37.108837,03505,2023-06-10,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Continental,215/60R16,Scrap,Magarpatta City,-16.5439235,24.957062,15567,2022-12-06,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Goodyear,235/45R17,Used,Hinjewadi,6.058922,67.416400,05233,2023-08-28,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Goodyear,205/55R16,Scrap,Hadapsar,48.2866195,26.326779,15489,2023-03-21,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Continental,205/55R16,Used,Kharadi,18.0986605,-75.886212,01555,2023-02-19,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,235/45R17,Used,Hinjewadi,29.6621715,58.033263,55049,2023-01-21,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,235/45R17,Scrap,Koregaon Park,-25.672796,112.985758,36630,2023-06-08,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Goodyear,225/45R17,Scrap,Shivane,32.604832,-158.663516,55965,2023-01-22,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Michelin,225/45R17,Scrap,Vishrantwadi,13.213951,-24.646430,99819,2023-06-01,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,225/45R17,Scrap,Deccan,61.1908385,93.210418,84433,2022-12-11,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Pirelli,225/45R17,Used,Camp,-60.114449,-31.575381,15401,2023-01-19,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,215/60R16,Used,Hinjewadi,-72.5897295,-154.634556,17640,2023-06-29,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility A
+Pirelli,225/45R17,Used,Shivane,-61.9259195,-161.439485,59549,2023-02-08,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Continental,225/45R17,Used,Kalyani Nagar,-16.5317335,60.776428,48912,2023-01-29,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Continental,215/60R16,Used,Deccan,38.2693615,-28.584042,61761,2022-10-12,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,225/50R17,Used,Shivane,-73.084445,-57.938923,32166,2022-12-09,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,235/45R17,Used,Bavdhan,43.5300435,5.843698,65362,2023-05-14,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,235/45R17,Scrap,Koregaon Park,-76.483626,-58.944170,80854,2022-12-28,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,215/60R16,Scrap,Bavdhan,25.180012,-151.359591,20170,2022-10-01,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,225/50R17,Used,Hinjewadi,-73.9051055,-81.262400,22326,2023-06-05,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Bridgestone,205/55R16,Used,Kalyani Nagar,-54.622827,-21.920549,40203,2023-05-29,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,215/60R16,Used,Hinjewadi,67.007585,61.434164,88629,2023-03-12,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,225/50R17,Used,Deccan,77.3080885,137.603800,61712,2023-03-16,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,225/45R17,Used,Kalyani Nagar,73.542296,-72.529813,99481,2022-12-16,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,225/45R17,Used,Bavdhan,-56.2756055,-113.541960,73184,2022-10-15,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Continental,235/45R17,Used,Kharadi,-71.2183405,38.656371,80358,2023-04-15,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Bridgestone,205/55R16,Used,Shivajinagar,83.863114,109.553243,79470,2023-02-27,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Goodyear,235/45R17,Scrap,Deccan,-33.346137,21.777917,09840,2022-10-21,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,215/60R16,Used,Deccan,19.6785605,-132.563198,50249,2023-09-13,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Goodyear,205/55R16,Scrap,Shivajinagar,63.030544,-99.288483,88137,2023-01-09,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Bridgestone,225/45R17,Used,Bavdhan,-36.6848615,-51.263539,02528,2022-11-24,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Michelin,235/45R17,Used,Hadapsar,-20.8731885,-174.254226,64464,2023-02-17,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Bridgestone,215/60R16,Used,Bavdhan,78.363875,-169.232044,65080,2023-02-25,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Pirelli,215/60R16,Used,Camp,-31.2423865,-34.093814,95699,2022-12-16,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Goodyear,205/55R16,Used,Shivane,-1.264827,129.530316,40152,2023-05-23,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Continental,225/45R17,Scrap,Shivajinagar,-74.300705,44.101112,86828,2023-08-01,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Michelin,235/45R17,Used,Shivane,-77.427066,30.607397,15340,2023-07-08,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Goodyear,205/55R16,Used,Kothrud,-57.579240,97.622010,98862,2022-12-16,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Bridgestone,205/55R16,Scrap,Camp,79.736448,-67.141803,08851,2023-01-17,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,235/45R17,Scrap,Hadapsar,-50.793389,-23.083719,60249,2023-05-19,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Continental,225/45R17,Scrap,Vishrantwadi,-16.4720615,145.714671,22941,2023-08-24,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Bridgestone,215/60R16,Used,Shivane,-56.1130255,23.656406,60353,2023-05-04,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,225/45R17,Used,Deccan,74.5873535,-112.392854,67575,2023-06-05,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,225/45R17,Scrap,Camp,60.9637505,-153.845292,07105,2023-01-13,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Michelin,225/45R17,Used,Koregaon Park,-5.8578705,-150.007877,89671,2023-01-14,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Bridgestone,205/55R16,Scrap,Koregaon Park,70.3859165,76.461435,76274,2023-03-03,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Pirelli,225/50R17,Scrap,Magarpatta City,-58.878676,136.514186,49411,2023-04-01,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Bridgestone,225/50R17,Scrap,Kalyani Nagar,24.462597,-138.139863,40726,2023-09-11,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Goodyear,225/50R17,Used,Kothrud,35.4231305,146.781421,47286,2023-03-30,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Pirelli,205/55R16,Used,Koregaon Park,73.938431,-90.961915,07059,2023-09-10,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Pirelli,215/60R16,Used,Magarpatta City,3.079488,-66.935825,76233,2023-02-25,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,215/60R16,Scrap,Shivajinagar,77.540070,-155.165071,01461,2023-08-13,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Continental,215/60R16,Scrap,Aundh,50.082265,-14.969276,36340,2023-08-29,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,215/60R16,Used,Magarpatta City,27.063736,4.095949,94267,2023-03-04,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,225/50R17,Used,Kothrud,-76.1101675,-48.633767,70417,2023-05-13,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Pirelli,225/50R17,Scrap,Camp,-86.323743,-150.993900,45009,2023-02-06,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Bridgestone,205/55R16,Scrap,Kothrud,-36.296006,28.298655,92303,2022-10-10,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Goodyear,205/55R16,Scrap,Kalyani Nagar,-36.3187125,-146.654905,57404,2023-03-03,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Continental,225/50R17,Scrap,Kothrud,34.2142045,94.327693,97073,2023-07-12,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility A
+Pirelli,235/45R17,Used,Kothrud,-78.391666,-20.178084,61659,2022-11-13,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Goodyear,235/45R17,Scrap,Kalyani Nagar,-33.021905,62.669488,70344,2023-01-07,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,225/45R17,Scrap,Kharadi,-18.604465,119.571688,95839,2022-12-15,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Bridgestone,225/50R17,Used,Shivajinagar,63.007384,-33.163741,46776,2023-01-02,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Michelin,225/50R17,Used,Shivane,-67.5303275,-104.351984,58204,2023-01-05,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility B
+Michelin,205/55R16,Scrap,Kharadi,-26.7589685,-26.052974,83526,2023-07-07,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Michelin,235/45R17,Scrap,Deccan,7.140434,89.045223,92731,2023-01-19,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,225/45R17,Used,Shivajinagar,75.246044,148.946383,91120,2022-12-07,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Bridgestone,205/55R16,Scrap,Vishrantwadi,64.2721375,35.807620,03118,2022-11-09,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Continental,225/50R17,Used,Camp,80.327897,17.621875,79581,2023-06-20,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,235/45R17,Scrap,Vishrantwadi,-43.2754235,21.745732,14266,2023-02-12,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility B
+Bridgestone,215/60R16,Used,Kothrud,66.537790,-115.723933,27734,2023-01-27,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Michelin,205/55R16,Scrap,Bavdhan,-62.203775,-150.224930,04546,2023-09-07,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Bridgestone,225/50R17,Used,Hadapsar,-35.218217,-121.842033,83958,2022-12-10,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,215/60R16,Scrap,Kothrud,-50.4335775,85.322859,25175,2023-07-23,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Continental,205/55R16,Scrap,Kothrud,53.4528955,-105.344993,37313,2023-05-28,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Goodyear,225/45R17,Used,Vishrantwadi,66.7203465,72.673113,58897,2022-10-28,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility A
+Bridgestone,205/55R16,Scrap,Kothrud,13.440416,-9.704078,33006,2023-03-27,Light Truck Tire (LTT),Pyrolysis,Crumb Rubber,Facility B
+Bridgestone,215/60R16,Used,Hadapsar,48.830985,155.403009,08178,2023-09-18,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Goodyear,235/45R17,Used,Kothrud,31.293769,126.950632,42966,2023-02-08,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
+Michelin,225/45R17,Used,Kalyani Nagar,2.0352185,-93.588245,46460,2023-06-03,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility B
+Pirelli,205/55R16,Scrap,Shivajinagar,70.513907,-34.794171,99516,2023-09-23,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Continental,225/45R17,Used,Koregaon Park,-39.222584,23.020700,40946,2023-03-09,Light Truck Tire (LTT),Shredding,Tire-Derived Fuel,Facility A
+Continental,215/60R16,Used,Deccan,79.692984,46.869033,11528,2022-11-28,Passenger Car Tire (PCT),Pyrolysis,Tire-Derived Fuel,Facility A
+Continental,235/45R17,Scrap,Shivane,18.554590,-109.956946,78280,2022-11-06,Light Truck Tire (LTT),Shredding,Crumb Rubber,Facility B
+Michelin,215/60R16,Used,Hinjewadi,-37.640781,112.847967,67394,2023-07-09,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Continental,235/45R17,Scrap,Kalyani Nagar,22.9619685,-46.852935,32620,2023-02-28,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Bridgestone,225/50R17,Scrap,Hinjewadi,52.603557,-178.691759,15823,2023-04-14,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Goodyear,205/55R16,Scrap,Magarpatta City,-30.5271445,40.741519,81054,2023-07-19,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility B
+Pirelli,235/45R17,Scrap,Kharadi,-33.341038,178.686406,96442,2023-03-30,Passenger Car Tire (PCT),Shredding,Crumb Rubber,Facility B
+Continental,205/55R16,Used,Kharadi,-55.9912105,143.646206,52290,2023-02-27,Light Truck Tire (LTT),Pyrolysis,Tire-Derived Fuel,Facility A
+Pirelli,235/45R17,Scrap,Camp,14.396233,-150.676608,70907,2022-11-26,Passenger Car Tire (PCT),Shredding,Tire-Derived Fuel,Facility A
+Continental,225/45R17,Scrap,Bavdhan,-67.2471075,78.705184,33925,2023-04-16,Passenger Car Tire (PCT),Pyrolysis,Crumb Rubber,Facility A
